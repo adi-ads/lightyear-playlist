@@ -1,0 +1,5150 @@
+{
+  "1906": {
+    "tracks": [
+      {
+        "artist": "Billy Murray",
+        "track": "The Grand Old Rag",
+      },
+      {
+        "artist": "Byron G. Harlan",
+        "track": "Wait Till the Sun Shines, Nellie",
+      },
+      {
+        "artist": "Bert Williams",
+        "track": "Nobody",
+      },
+      {
+        "artist": "Henry Burr",
+        "track": "Love Me and the World is Mine",
+      },
+      {
+        "artist": "Byron G. Harlan",
+        "track": "The Good Old U.S.A.",
+      }
+    ]
+  },
+  "1907": {
+    "tracks": [
+      {
+        "artist": "Byron G. Harlan",
+        "track": "School Days (When We Were a Couple of Kids)",
+      },
+      {
+        "artist": "Byron G. Harlan",
+        "track": "My Gal Sal",
+      },
+      {
+        "artist": "Billy Murray",
+        "track": "Harrigan",
+      },
+      {
+        "artist": "Ada Jones & Billy Murray",
+        "track": "Let's Take an Old-Fashioned Walk",
+      },
+      {
+        "artist": "Enrico Caruso",
+        "track": "I Pagliacci - Vesti La Giubba (On with the Play)",
+      },
+      {
+        "artist": "Arthur Collins & Byron Harlan",
+        "track": "Camp Meetin' Time",
+      }
+    ]
+  },
+  "1908": {
+    "tracks": [
+      {
+        "artist": "Haydn Quartet with Harry Macdonough",
+        "track": "Take Me Out to the Ball Game",
+      },
+      {
+        "artist": "Alan Turner",
+        "track": "As Long as the World Rolls On",
+      },
+      {
+        "artist": "Billy Murray",
+        "track": "Under Any Old Flag at All",
+      },
+      {
+        "artist": "Harry Macdonough",
+        "track": "My Dear",
+      },
+      {
+        "artist": "Ada Jones & Billy Murray",
+        "track": "Cuddle Up a Little Closer, Lovey Mine",
+      },
+      {
+        "artist": "Ada Jones & Billy Murray",
+        "track": "When We Are M-A-Double-R-I-E-D",
+      }
+    ]
+  },
+  "1909": {
+    "tracks": [
+      {
+        "artist": "Haydn Quartet",
+        "track": "Put on Your Old Gray Bonnet",
+      },
+      {
+        "artist": "Harry Macdonough & Elise Stevenson",
+        "track": "Shine on, Harvest Moon",
+      },
+      {
+        "artist": "Henry Burr",
+        "track": "I Wonder Who's Kissing Her Now",
+      },
+      {
+        "artist": "Arthur Collins & Byron Harlan",
+        "track": "The Right Church, but the Wrong Pew",
+      },
+      {
+        "artist": "Ada Jones & Billy Murray",
+        "track": "Shine On, Harvest Moon",
+      },
+      {
+        "artist": "Frank Stanley & Elise Stevenson",
+        "track": "Good Evening, Caroline",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ada Jones & Victor Light Opera Co.",
+        "track": "The Yama Yama Man",
+      },
+      {
+        "artist": "Ada Jones",
+        "track": "I've Got Rings on My Fingers",
+      },
+      {
+        "artist": "Blanche Ring",
+        "track": "I've Got Rings on My Fingers",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1910": {
+    "tracks": [
+      {
+        "artist": "American Quartet & Billy Murray",
+        "track": "Casey Jones",
+      },
+      {
+        "artist": "Billy Murray & Haydn Quartet",
+        "track": "By the Light of the Silvery Moon",
+
+        "priority": 1
+      },
+      {
+        "artist": "Harry Macdonough",
+        "track": "Where the River Shannon Flows",
+      },
+      {
+        "artist": "Bert Williams",
+        "track": "Play That Barber-Shop Chord",
+
+        "priority": 1
+      },
+      {
+        "artist": "Harry Macdonough & Lucy Isabelle Marsh",
+        "track": "Every Little Movement",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ada Jones & American Quartet",
+        "track": "Call Me Up Some Rainy Afternoon",
+
+        "priority": 1
+      },
+      {
+        "artist": "Frank Stanley & Byron G. Harlan",
+        "track": "Tramp! Tramp! Tramp!",
+      }
+    ]
+  },
+  "1911": {
+    "tracks": [
+      {
+        "artist": "Arthur Collins & Byron Harlan",
+        "track": "Alexander's Ragtime Band",
+      },
+      {
+        "artist": "Peerless Quartet (Columbia  Male Quartet)",
+        "track": "Let Me Call You Sweetheart",
+
+        "priority": 1
+      },
+      {
+        "artist": "John McCormack",
+        "track": "I'm Falling in Love with Someone",
+      },
+      {
+        "artist": "John McCormack",
+        "track": "Mother Machree",
+      },
+      {
+        "artist": "Arthur Collins & Byron Harlan",
+        "track": "Put Your Arms Around Me, Honey",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ada Jones & Billy Murray & American Quartet",
+        "track": "Come, Josephine, in My Flying Machine",
+      },
+      {
+        "artist": "Sophie Tucker",
+        "track": "Some of These Days",
+      }
+    ]
+  },
+  "1912": {
+    "tracks": [
+      {
+        "artist": "American Quartet",
+        "track": "Moonlight Bay",
+
+        "priority": 1
+      },
+      {
+        "artist": "Harry Macdonough",
+        "track": "Down by the Old Mill Stream",
+      },
+      {
+        "artist": "Bob Roberts",
+        "track": "Ragtime Cowboy Joe",
+      },
+      {
+        "artist": "Heidelberg Quintet",
+        "track": "Waiting for the Robert E. Lee",
+      },
+      {
+        "artist": "Ada Jones & Billy Murray",
+        "track": "Be My Little Baby Bumble Bee",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "Ragging the Baby to Sleep",
+
+        "priority": 1
+      },
+      {
+        "artist": "Henry Burr & Albert Campbell",
+        "track": "When I Was Twenty-One and You Were Sweet Sixteen",
+
+        "priority": 1
+      },
+      {
+        "artist": "Enrico Caruso",
+        "track": "Love is Mine",
+      },
+      {
+        "artist": "Elsie Baker",
+        "track": "I Love You Truly",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "That Haunting Melody",
+      }
+    ]
+  },
+  "1913": {
+    "tracks": [
+      {
+        "artist": "Chauncey Olcott",
+        "track": "When Irish Eyes Are Smiling",
+      },
+      {
+        "artist": "Henry Burr",
+        "track": "When I Lost You",
+      },
+      {
+        "artist": "Charles Harrison",
+        "track": "Peg O' My Heart",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "You Made Me Love You, I Didn't Want to Do It",
+      },
+      {
+        "artist": "Arthur Collins & Byron Harlan",
+        "track": "When the Midnight Choo Choo Leaves for Alabam'",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "The Spaniard That Blighted My Life",
+
+        "priority": 1
+      },
+      {
+        "artist": "Henry Burr & Albert Campbell",
+        "track": "The Trail of the Lonesome Pine",
+      },
+      {
+        "artist": "Ada Jones",
+        "track": "Row! Row! Row!",
+      }
+    ]
+  },
+  "1914": {
+    "tracks": [
+      {
+        "artist": "Henry Burr",
+        "track": "The Song That Stole My Heart Away",
+      },
+      {
+        "artist": "American Quartet",
+        "track": "It's a Long, Long Way to Tipperary",
+      },
+      {
+        "artist": "Henry Burr & Albert Campbell & Will Oakland",
+        "track": "I'm On My Way to Mandalay",
+      },
+      {
+        "artist": "American Quartet",
+        "track": "Rebecca of Sunny-brook Farm",
+      },
+      {
+        "artist": "Heidelberg Quintet",
+        "track": "By the Beautiful Sea",
+      },
+      {
+        "artist": "Joe Hayman",
+        "track": "Cohen on the Telephone",
+
+        "priority": 1
+      },
+      {
+        "artist": "Arthur Collins & Byron Harlan",
+        "track": "I Love the Ladies",
+      },
+      {
+        "artist": "Arthur Collins & Byron Harlan",
+        "track": "The Aba Daba Honeymoon",
+      }
+    ]
+  },
+  "1915": {
+    "tracks": [
+      {
+        "artist": "John McCormack",
+        "track": "It's a Long, Long Way to Tipperary",
+      },
+      {
+        "artist": "Harry Macdonough & Olive Kline",
+        "track": "They Didn't Believe Me",
+      },
+      {
+        "artist": "Olive Kline & Reinald Werrenrath",
+        "track": "Hello, Frisco!",
+
+        "priority": 1
+      },
+      {
+        "artist": "George MacFarlane",
+        "track": "A Little Bit of Heaven (Shure, They Call it Ireland)",
+      },
+      {
+        "artist": "Alma Gluck",
+        "track": "Carry Me Back to Old Virginny",
+      },
+      {
+        "artist": "Morton Harvey",
+        "track": "I Didn't Raise My Boy to Be a Soldier",
+      },
+      {
+        "artist": "American Quartet",
+        "track": "Chinatown, My Chinatown",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1916": {
+    "tracks": [
+      {
+        "artist": "Henry Burr",
+        "track": "M-O-T-H-E-R (A Word That Means the World to Me)",
+      },
+      {
+        "artist": "Henry Burr",
+        "track": "Good-Bye, Good Luck, God Bless You (Is All That I Can Say)",
+
+        "priority": 1
+      },
+      {
+        "artist": "Prince's Orchestra",
+        "track": "Hello, Hawaii, How are You?",
+      },
+      {
+        "artist": "John McCormack",
+        "track": "The Sunshine of Your Smile",
+      },
+      {
+        "artist": "James F. Harrison & James Reed",
+        "track": "There's a Long, Long Trail",
+      },
+      {
+        "artist": "Harry Macdonough",
+        "track": "The Girl on the Magazine",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "I Sent My Wife to the Thousand Isles",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1917": {
+    "tracks": [
+      {
+        "artist": "American Quartet",
+        "track": "Over There",
+      },
+      {
+        "artist": "Victor Military Band",
+        "track": "Poor Butterfly",
+      },
+      {
+        "artist": "Anna Wheaton & James Harrod",
+        "track": "Till the Clouds Roll By",
+      },
+      {
+        "artist": "Knickerbocker Quartet",
+        "track": "Pack Up Your Troubles in Your Old Kit Bag (And Smile, Smile, Smile)",
+      },
+      {
+        "artist": "Elsie Baker",
+        "track": "Hush-a-Bye Ma Baby (The Missouri Waltz)",
+
+        "priority": 1
+      },
+      {
+        "artist": "Nora Bayes",
+        "track": "Over There",
+      },
+      {
+        "artist": "Van & Schenck",
+        "track": "For Me and My Gal",
+      },
+      {
+        "artist": "American Quartet",
+        "track": "Oh Johnny, Oh Johnny, Oh!",
+      },
+      {
+        "artist": "John McCormack",
+        "track": "The Star-Spangled Banner",
+      }
+    ]
+  },
+  "1918": {
+    "tracks": [
+      {
+        "artist": "Henry Burr",
+        "track": "Just a Baby's Prayer at Twilight (For Her Daddy Over There)",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "Rock-a-Bye Your Baby with a Dixie Melody",
+      },
+      {
+        "artist": "Charles Harrison",
+        "track": "I'm Always Chasing Rainbows",
+      },
+      {
+        "artist": "Arthur Fields",
+        "track": "Oh, How I Hate to Get Up in the Morning",
+      },
+      {
+        "artist": "John McCormack",
+        "track": "Send Me Away with a Smile",
+      },
+      {
+        "artist": "Irving Kaufman",
+        "track": "Hail! Hail! The Gang's All Here",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "I'm All Bound Round with the Mason Dixon Line",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "Hello Central, Give Me No Man's Land",
+
+        "priority": 1
+      },
+      {
+        "artist": "Enrico Caruso",
+        "track": "Over There",
+      },
+      {
+        "artist": "Original Dixieland Jazz Band",
+        "track": "Tiger Rag",
+      }
+    ]
+  },
+  "1919": {
+    "tracks": [
+      {
+        "artist": "Henry Burr & Albert Campbell",
+        "track": "Till We Meet Again",
+      },
+      {
+        "artist": "Henry Burr",
+        "track": "Beautiful Ohio",
+
+        "priority": 1
+      },
+      {
+        "artist": "Henry Burr",
+        "track": "Oh! What a Pal was Mary",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "I'll Say She Does",
+      },
+      {
+        "artist": "John Steel",
+        "track": "A Pretty Girl is Like a Melody",
+      },
+      {
+        "artist": "Ben Selvin & His Orchestra",
+        "track": "I'm Forever Blowing Bubbles",
+
+        "priority": 1
+      },
+      {
+        "artist": "Marion Harris",
+        "track": "After You've Gone",
+      },
+      {
+        "artist": "Henry Burr & Albert Campbell",
+        "track": "I'm Forever Blowing Bubbles",
+      },
+      {
+        "artist": "Nicholas Orlando's Orchestra",
+        "track": "Till We Meet Again",
+      },
+      {
+        "artist": "Bert Williams",
+        "track": "It's Nobody's Business but My Own",
+      }
+    ]
+  },
+  "1920": {
+    "tracks": [
+      {
+        "artist": "Ben Selvin & His Orchestra",
+        "track": "Dardanella",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Whispering",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "Swanee (from Sinbad)",
+      },
+      {
+        "artist": "Ted Lewis & His Band",
+        "track": "When My Baby Smiles at Me",
+      },
+      {
+        "artist": "John Steel",
+        "track": "The Love Nest",
+      },
+      {
+        "artist": "Art Hickman & His Orchestra",
+        "track": "Hold Me",
+
+        "priority": 1
+      },
+      {
+        "artist": "Marion Harris",
+        "track": "St. Louis Blues",
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "The Japanese Sandman",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "I've Got My Captain Working for Me Now",
+      },
+      {
+        "artist": "Art Hickman & His Orchestra",
+        "track": "The Love Nest",
+      }
+    ]
+  },
+  "1921": {
+    "tracks": [
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Wang Wang Blues",
+
+        "priority": 1
+      },
+      {
+        "artist": "Isham Jones & His Orchestra",
+        "track": "Wabash Blues",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Cherie",
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Say it with Music",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Song of India",
+      },
+      {
+        "artist": "Eddie Cantor",
+        "track": "Margie",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "My Mammy",
+      },
+      {
+        "artist": "Ted Lewis & His Band",
+        "track": "All By Myself",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1922": {
+    "tracks": [
+      {
+        "artist": "Al Jolson",
+        "track": "April Showers",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Three O'clock in the Morning",
+      },
+      {
+        "artist": "Gallagher & Shean",
+        "track": "Mr. Gallagher and Mr. Shean",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Stumbling",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Hot Lips",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "Angel Child",
+      },
+      {
+        "artist": "Isham Jones & His Orchestra",
+        "track": "On the Alamo",
+
+        "priority": 1
+      },
+      {
+        "artist": "Billy Jones & Ernest Hare",
+        "track": "Mr. Gallagher and Mr. Shean",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Do it Again",
+      },
+      {
+        "artist": "Henry Burr",
+        "track": "My Buddy",
+      }
+    ]
+  },
+  "1923": {
+    "tracks": [
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Parade of the Wooden Soldiers",
+      },
+      {
+        "artist": "Isham Jones & His Orchestra",
+        "track": "Swingin' Down the Lane",
+      },
+      {
+        "artist": "Billy Murray & Ed Smalle",
+        "track": "That Old Gang of Mine",
+
+        "priority": 1
+      },
+      {
+        "artist": "Billy Jones",
+        "track": "Yes! We Have No Bananas",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bessie Smith",
+        "track": "Down Hearted Blues",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "Toot Toot Tootsie (Goo'bye)",
+      },
+      {
+        "artist": "Van & Schenck",
+        "track": "Carolina in the Morning",
+
+        "priority": 1
+      },
+      {
+        "artist": "Carl Fenton & His Orchestra",
+        "track": "Love Sends a Little Gift of Roses",
+
+        "priority": 1
+      },
+      {
+        "artist": "Art Landry & His Orchestra",
+        "track": "Dreamy Melody",
+
+        "priority": 1
+      },
+      {
+        "artist": "Selvin's Orchestra",
+        "track": "Yes! We Have No Bananas",
+      }
+    ]
+  },
+  "1924": {
+    "tracks": [
+      {
+        "artist": "Wendell Hall",
+        "track": "It Ain't Gonna Rain No Mo'",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "California, Here I Come!",
+
+        "priority": 1
+      },
+      {
+        "artist": "Fred Waring's Pennsylvanians",
+        "track": "Memory Lane",
+
+        "priority": 1
+      },
+      {
+        "artist": "Isham Jones & His Orchestra",
+        "track": "It Had to be You",
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "What'll I Do?",
+      },
+      {
+        "artist": "Ted Weems & His Orchestra",
+        "track": "Somebody Stole My Gal",
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Somebody Loves Me",
+
+        "priority": 1
+      },
+      {
+        "artist": "Fred Waring's Pennsylvanians",
+        "track": "Sleep",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Linger Awhile",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "I Wonder What's Become of Sally?",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1925": {
+    "tracks": [
+      {
+        "artist": "Gene Austin",
+        "track": "Yes Sir! That's My Baby",
+      },
+      {
+        "artist": "Isham Jones Conducting Ray Miller's Orchestra",
+        "track": "I'll See You in My Dreams",
+      },
+      {
+        "artist": "Vernon Dalhart",
+        "track": "The Prisoner's Song",
+      },
+      {
+        "artist": "Ben Bernie & His Orchestra",
+        "track": "Sweet Georgia Brown",
+
+        "priority": 1
+      },
+      {
+        "artist": "Eddie Cantor",
+        "track": "If You Knew Susie",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "All Alone",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ben Selvin & His Orchestra ",
+        "track": "Manhattan",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ben Selvin & His Orchestra",
+        "track": "Oh, How I Miss You Tonight",
+      },
+      {
+        "artist": "Marion Harris",
+        "track": "Tea for Two",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "All Alone",
+      }
+    ]
+  },
+  "1926": {
+    "tracks": [
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Valencia",
+      },
+      {
+        "artist": "Vernon Dalhart",
+        "track": "The Prisoner's Song",
+      },
+      {
+        "artist": "Jan Garber & His Orchestra",
+        "track": "Baby Face",
+      },
+      {
+        "artist": "George Olsen & His Orchestra",
+        "track": "Who?",
+      },
+      {
+        "artist": "Ben Bernie & His Orchestra",
+        "track": "Sleepy Time Gal",
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "The Birth of the Blues",
+      },
+      {
+        "artist": "Gene Austin",
+        "track": "Bye Bye, Blackbird",
+
+        "priority": 1
+      },
+      {
+        "artist": "George Olsen & His Orchestra",
+        "track": "Always",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "I'm Sitting on Top of the World",
+      },
+      {
+        "artist": "Johnny Marvin",
+        "track": "Breezin' Along with the Breeze",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1927": {
+    "tracks": [
+      {
+        "artist": "Gene Austin",
+        "track": "My Blue Heaven",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "In a Little Spanish Town",
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "Charmaine",
+
+        "priority": 1
+      },
+      {
+        "artist": "Moran & Mack",
+        "track": "Two Black Crows",
+
+        "priority": 1
+      },
+      {
+        "artist": "Sophie Tucker",
+        "track": "Some of These Days",
+
+        "priority": 1
+      },
+      {
+        "artist": "Whispering Jack Smith",
+        "track": "Me and My Shadow",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ben Bernie & His Orchestra",
+        "track": "Ain't She Sweet?",
+      },
+      {
+        "artist": "Roger Wolfe Kahn & His Orchestra",
+        "track": "Russian Lullaby",
+
+        "priority": 1
+      },
+      {
+        "artist": "Red Nichols & His Five Pennies",
+        "track": "Ida, Sweet as Apple Cider",
+
+        "priority": 1
+      },
+      {
+        "artist": "Gene Austin",
+        "track": "Tonight You Belong To Me",
+      }
+    ]
+  },
+  "1928": {
+    "tracks": [
+      {
+        "artist": "Al Jolson",
+        "track": "Sonny Boy",
+      },
+      {
+        "artist": "Gene Austin (Nat Shilkret Orchestra)",
+        "track": "Ramona",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "My Angel",
+
+        "priority": 1
+      },
+      {
+        "artist": "Gene Austin",
+        "track": "Jeannine (I Dream Of Lilac Time)",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Among My Souvenirs",
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Ramona",
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "There's a Rainbow Round My Shoulder",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Together",
+
+        "priority": 1
+      },
+      {
+        "artist": "Cliff Edwards",
+        "track": "I Can't Give You Anything but Love",
+      }
+    ]
+  },
+  "1929": {
+    "tracks": [
+      {
+        "artist": "Nick Lucas",
+        "track": "Tip Toe Through the Tulips",
+      },
+      {
+        "artist": "Rudy Vallee & His Connecticut Yankees",
+        "track": "Honey",
+      },
+      {
+        "artist": "Gene Austin",
+        "track": "Carolina Moon",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Jolson",
+        "track": "Little Pal",
+      },
+      {
+        "artist": "Leo Reisman & His Orchestra",
+        "track": "The Wedding of the Painted Doll",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bob Haring & His Orchestra",
+        "track": "Pagan Love Song",
+
+        "priority": 1
+      },
+      {
+        "artist": "Cliff Edwards",
+        "track": "Singin' In The Rain",
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "Sweethearts On Parade",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ethel Waters",
+        "track": "Am I Blue?",
+      },
+      {
+        "artist": "George Olsen & His Orchestra",
+        "track": "A Precious Little Thing Called Love",
+      }
+    ]
+  },
+  "1930": {
+    "tracks": [
+      {
+        "artist": "Rudy Vallee & His Connecticut Yankees",
+        "track": "Stein Song (University of Maine)",
+      },
+      {
+        "artist": "Nat Shilkret & The Victor Orchestra",
+        "track": "Dancing With Tears In My Eyes",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Body and Soul",
+
+        "priority": 1
+      },
+      {
+        "artist": "Fred Waring's Pennsylvanians",
+        "track": "Little White Lies",
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "You're Driving Me Crazy! (What Did I Do?)",
+
+        "priority": 1
+      },
+      {
+        "artist": "Duke Ellington & His Famous Orchestra",
+        "track": "Three Little Words",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ben Selvin & His Orchestra",
+        "track": "When It's Springtime in the Rockies",
+      },
+      {
+        "artist": "Roy Ingraham & His Orchestra",
+        "track": "Chant of the Jungle",
+
+        "priority": 1
+      },
+      {
+        "artist": "Benny Meroff & His Orchestra",
+        "track": "Happy Days are Here Again",
+      }
+    ]
+  },
+  "1931": {
+    "tracks": [
+      {
+        "artist": "Don Azpiazu & His Havana Casino Orchestra",
+        "track": "The Peanut Vendor",
+
+        "priority": 1
+      },
+      {
+        "artist": "Wayne King & His Orchestra",
+        "track": "Good Night, Sweetheart",
+
+        "priority": 1
+      },
+      {
+        "artist": "Gus Arnheim & His Orchestra",
+        "track": "Sweet And Lovely",
+
+        "priority": 1
+      },
+      {
+        "artist": "Mills Brothers",
+        "track": "Tiger Rag",
+      },
+      {
+        "artist": "Wayne King & His Orchestra",
+        "track": "Dream a Little Dream of Me",
+
+        "priority": 1
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "By the River St. Marie",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "At Your Command",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "Out of Nowhere",
+
+        "priority": 1
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "(There Ought to Be a) Moonlight Saving Time",
+      }
+    ]
+  },
+  "1932": {
+    "tracks": [
+      {
+        "artist": "Ted Lewis & His Band",
+        "track": "In A Shanty In Old Shanty Town",
+      },
+      {
+        "artist": "Leo Reisman & His Orchestra",
+        "track": "Night and Day",
+
+        "priority": 1
+      },
+      {
+        "artist": "Leo Reisman & His Orchestra",
+        "track": "Paradise",
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "Please",
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "We Just Couldn't Say Goodbye",
+
+        "priority": 1
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "Paradise",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "All of Me",
+      },
+      {
+        "artist": "Louis Armstrong",
+        "track": "All of Me",
+      },
+      {
+        "artist": "George Olsen & His Orchestra",
+        "track": "Lullaby of the Leaves",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby & Mills Brothers",
+        "track": "Dinah",
+      }
+    ]
+  },
+  "1933": {
+    "tracks": [
+      {
+        "artist": "George Olsen & His Orchestra",
+        "track": "The Last Round-Up",
+
+        "priority": 1
+      },
+      {
+        "artist": "Leo Reisman & His Orchestra",
+        "track": "Stormy Weather",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ray Noble & His Orchestra",
+        "track": "Love Is The Sweetest Thing",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby (Guy Lombardo Orchestra)",
+        "track": "You're Getting to Be a Habit with Me",
+      },
+      {
+        "artist": "Ted Lewis & His Band",
+        "track": "Lazybones",
+
+        "priority": 1
+      },
+      {
+        "artist": "Don Bestor & His Orchestra",
+        "track": "Forty-Second Street",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ethel Waters",
+        "track": "Stormy Weather",
+
+        "priority": 1
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "The Last Round-up",
+      },
+      {
+        "artist": "Eddy Duchin & His Orchestra",
+        "track": "Did You Ever See a Dream Walking?",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "Shadow Waltz",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1934": {
+    "tracks": [
+      {
+        "artist": "Bing Crosby",
+        "track": "June In January",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "Love in Bloom",
+      },
+      {
+        "artist": "Paul Whiteman & His Orchestra",
+        "track": "Smoke Gets In Your Eyes",
+
+        "priority": 1
+      },
+      {
+        "artist": "Duke Ellington & His Famous Orchestra",
+        "track": "Cocktails for Two",
+      },
+      {
+        "artist": "Ted Fio Rito & His Orchestra",
+        "track": "I'll String Along with You",
+
+        "priority": 1
+      },
+      {
+        "artist": "Ray Noble & His Orchestra",
+        "track": "The Very Thought of You",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "Little Dutch Mill",
+      },
+      {
+        "artist": "Eddy Duchin & His Orchestra",
+        "track": "Let's Fall in Love",
+
+        "priority": 1
+      },
+      {
+        "artist": "Freddy Martin & His Orchestra",
+        "track": "I Saw Stars",
+
+        "priority": 1
+      },
+      {
+        "artist": "Grace Moore",
+        "track": "One Night of Love",
+      }
+    ]
+  },
+  "1935": {
+    "tracks": [
+      {
+        "artist": "Fred Astaire",
+        "track": "Cheek To Cheek",
+      },
+      {
+        "artist": "Ray Noble & His Orchestra",
+        "track": "Isle Of Capri",
+      },
+      {
+        "artist": "Glen Gray & Casa Loma Orchestra",
+        "track": "When I Grow Too Old to Dream",
+
+        "priority": 1
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "Red Sails In The Sunset",
+
+        "priority": 1
+      },
+      {
+        "artist": "Eddy Duchin & His Orchestra",
+        "track": "Lovely to Look At",
+
+        "priority": 1
+      },
+      {
+        "artist": "Victor Young & His Orchestra",
+        "track": "She's a Latin from Manhattan",
+
+        "priority": 1
+      },
+      {
+        "artist": "Eddy Duchin & His Orchestra",
+        "track": "I Won't Dance",
+      },
+      {
+        "artist": "Little Jack Little & His Orchestra",
+        "track": "I'm in the Mood for Love",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bob Crosby & His Orchestra",
+        "track": "In a Little Gypsy Tea Room",
+
+        "priority": 1
+      },
+      {
+        "artist": "Fats Waller",
+        "track": "Truckin'",
+      }
+    ]
+  },
+  "1936": {
+    "tracks": [
+      {
+        "artist": "Bing Crosby",
+        "track": "Pennies from Heaven",
+      },
+      {
+        "artist": "Fred Astaire",
+        "track": "Way You Look Tonight",
+
+        "priority": 1
+      },
+      {
+        "artist": "Benny Goodman & His Orchestra",
+        "track": "The Glory Of Love",
+
+        "priority": 1
+      },
+      {
+        "artist": "Tommy Dorsey & His Orchestra",
+        "track": "Alone",
+
+        "priority": 1
+      },
+      {
+        "artist": "Benny Goodman & His Orchestra",
+        "track": "Good-Goody",
+
+        "priority": 1
+      },
+      {
+        "artist": "Fred Astaire",
+        "track": "A Fine Romance",
+
+        "priority": 1
+      },
+      {
+        "artist": "Tommy Dorsey & His Orchestra",
+        "track": "The Music Goes Round and Round",
+
+        "priority": 1
+      },
+      {
+        "artist": "Shep Fields & His Rippling Rhythm Orchestra",
+        "track": "Did I Remember?",
+
+        "priority": 1
+      },
+      {
+        "artist": "Fats Waller",
+        "track": "It's a Sin to Tell a Lie",
+
+        "priority": 1
+      },
+      {
+        "artist": "Jimmy Dorsey & His Orchestra",
+        "track": "Is It True What They Say About Dixie?",
+      }
+    ]
+  },
+  "1937": {
+    "tracks": [
+      {
+        "artist": "Bing Crosby",
+        "track": "Sweet Leilani",
+      },
+      {
+        "artist": "Tommy Dorsey & His Orchestra",
+        "track": "Once In A While",
+      },
+      {
+        "artist": "Tommy Dorsey & His Orchestra ",
+        "track": "The Dipsy Doodle",
+
+        "priority": 1
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "It Looks Like Rain in Cherry Blossom Lane",
+
+        "priority": 1
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "Boo-Hoo",
+
+        "priority": 1
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "September in the Rain",
+      },
+      {
+        "artist": "Shep Fields & His Rippling Rhythm Orchestra",
+        "track": "That Old Feeling",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bob Crosby & His Orchestra",
+        "track": "Whispers in the Dark",
+
+        "priority": 1
+      },
+      {
+        "artist": "Benny Goodman & His Orchestra",
+        "track": "Goodnight, My Love",
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "The Moon Got in My Eyes",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1938": {
+    "tracks": [
+      {
+        "artist": "Ella Fitzgerald ",
+        "track": "A-Tisket, A-Tasket",
+      },
+      {
+        "artist": "Larry Clinton & His Orchestra",
+        "track": "My Reverie",
+
+        "priority": 1
+      },
+      {
+        "artist": "Tommy Dorsey & His Orchestra",
+        "track": "Music, Maestro, Please",
+
+        "priority": 1
+      },
+      {
+        "artist": "Artie Shaw & His Orchestra",
+        "track": "Begin the Beguine",
+
+        "priority": 1
+      },
+      {
+        "artist": "Horace Heidt & His Orchestra",
+        "track": "Ti-Pi-Tin",
+
+        "priority": 1
+      },
+      {
+        "artist": "Benny Goodman & His Orchestra",
+        "track": "Don't Be That Way",
+
+        "priority": 1
+      },
+      {
+        "artist": "Andrews Sisters",
+        "track": "Bei Mir Bist Du Schon",
+
+        "priority": 1
+      },
+      {
+        "artist": "Larry Clinton & His Orchestra",
+        "track": "Cry, Baby, Cry",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "I've Got A Pocketful Of Dreams",
+
+        "priority": 1
+      },
+      {
+        "artist": "Shep Fields & His Rippling Rhythm Orchestra",
+        "track": "Thanks for the Memory",
+      }
+    ]
+  },
+  "1939": {
+    "tracks": [
+      {
+        "artist": "Larry Clinton & His Orchestra",
+        "track": "Deep Purple",
+      },
+      {
+        "artist": "Frankie Masters & His Orchestra",
+        "track": "Scatter-Brain",
+
+        "priority": 1
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "Over The Rainbow",
+
+        "priority": 1
+      },
+      {
+        "artist": "Shep Fields & His Rippling Rhythm Orchestra",
+        "track": "South of the Border (Down Mexico Way)",
+      },
+      {
+        "artist": "Benny Goodman & His Orchestra",
+        "track": "And the Angels Sing",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Donahue & His Orchestra",
+        "track": "Jeepers Creepers",
+
+        "priority": 1
+      },
+      {
+        "artist": "Will Glahe Musette Orchestra",
+        "track": "Beer Barrel Polka",
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "Moon Love",
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "Wishing (Will Make It So)",
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "Stairway To The Stars",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1940": {
+    "tracks": [
+      {
+        "artist": "Artie Shaw & His Orchestra",
+        "track": "Frenesi",
+
+        "priority": 1
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "In the Mood",
+      },
+      {
+        "artist": "Tommy Dorsey & His Orchestra",
+        "track": "I'll Never Smile Again",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "Only Forever",
+
+        "priority": 1
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "Tuxedo Junction",
+
+        "priority": 1
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "The Woodpecker Song",
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "When You Wish Upon a Star",
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "Careless",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "Trade Winds",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "Sierra Sue",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1941": {
+    "tracks": [
+      {
+        "artist": "Jimmy Dorsey & His Orchestra ",
+        "track": "Amapola",
+
+        "priority": 1
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "Chattanooga Choo Choo",
+      },
+      {
+        "artist": "Freddy Martin & His Orchestra",
+        "track": "Piano Concerto In B Flat",
+
+        "priority": 1
+      },
+      {
+        "artist": "Sammy Kaye & His Orchestra",
+        "track": "Daddy",
+      },
+      {
+        "artist": "Jimmy Dorsey & His Orchestra",
+        "track": "Maria Elena",
+
+        "priority": 1
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "You And I",
+
+        "priority": 1
+      },
+      {
+        "artist": "Jimmy Dorsey & His Orchestra",
+        "track": "Green Eyes",
+
+        "priority": 1
+      },
+      {
+        "artist": "Benny Goodman & His Orchestra",
+        "track": "There'll Be Some Changes Made",
+
+        "priority": 1
+      },
+      {
+        "artist": "Horace Heidt & His Orchestra",
+        "track": "I Don't Want To Set The World On Fire",
+      },
+      {
+        "artist": "Kay Kyser & His Orchestra",
+        "track": "(Lights Out) Til Reveille",
+      }
+    ]
+  },
+  "1942": {
+    "tracks": [
+      {
+        "artist": "Bing Crosby",
+        "track": "White Christmas",
+
+        "priority": 1
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "Moonlight Cocktail",
+
+        "priority": 1
+      },
+      {
+        "artist": "Glenn Miller & His Orchestra",
+        "track": "(I've Got a Gal In) Kalamazoo",
+
+        "priority": 1
+      },
+      {
+        "artist": "Kay Kyser & His Orchestra",
+        "track": "Jingle, Jangle, Jingle",
+
+        "priority": 1
+      },
+      {
+        "artist": "Jimmy Dorsey & His Orchestra ",
+        "track": "Tangerine",
+
+        "priority": 1
+      },
+      {
+        "artist": "Benny Goodman & His Orchestra",
+        "track": "Jersey Bounce",
+
+        "priority": 1
+      },
+      {
+        "artist": "Harry James & His Orchestra",
+        "track": "Sleepy Lagoon",
+
+        "priority": 1
+      },
+      {
+        "artist": "Woody Herman & His Orchestra",
+        "track": "Blues in the Night",
+
+        "priority": 1
+      },
+      {
+        "artist": "Kay Kyser & His Orchestra",
+        "track": "He Wears a Pair of Silver Wings",
+      },
+      {
+        "artist": "Benny Goodman & His Orchestra",
+        "track": "Somebody Else Is Taking My Place",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1943": {
+    "tracks": [
+      {
+        "artist": "Harry James & His Orchestra",
+        "track": "I've Heard That Song Before",
+      },
+      {
+        "artist": "Mills Brothers",
+        "track": "Paper Doll",
+
+        "priority": 1
+      },
+      {
+        "artist": "Al Dexter & His Troopers",
+        "track": "Pistol Packin' Mama",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "Sunday, Monday, or Always",
+      },
+      {
+        "artist": "Dick Haymes",
+        "track": "You'll Never Know",
+
+        "priority": 1
+      },
+      {
+        "artist": "Tommy Dorsey & His Orchestra",
+        "track": "There Are Such Things",
+
+        "priority": 1
+      },
+      {
+        "artist": "Rudy Vallee & His Connecticut Yankees",
+        "track": "As Time Goes By",
+
+        "priority": 1
+      },
+      {
+        "artist": "Tommy Dorsey & His Orchestra",
+        "track": "In The Blue Of Evening",
+
+        "priority": 1
+      },
+      {
+        "artist": "Benny Goodman & His Orchestra ",
+        "track": "Taking a Chance on Love",
+
+        "priority": 1
+      },
+      {
+        "artist": "Vaughn Monroe & His Orchestra",
+        "track": "Let's Get Lost",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1944": {
+    "tracks": [
+      {
+        "artist": "Bing Crosby",
+        "track": "Swinging On A Star",
+
+        "priority": 1
+      },
+      {
+        "artist": "Andrews Sisters",
+        "track": "Shoo-Shoo Baby",
+      },
+      {
+        "artist": "Bing Crosby & Andrews Sisters",
+        "track": "Don't Fence Me In",
+
+        "priority": 1
+      },
+      {
+        "artist": "Jimmy Dorsey & His Orchestra",
+        "track": "Besame Mucho",
+      },
+      {
+        "artist": "Harry James & His Orchestra",
+        "track": "I'll Get By (As Long As I Have You)",
+      },
+      {
+        "artist": "Bing Crosby & Andrews Sisters",
+        "track": "A Hot Time in the Town of Berlin",
+
+        "priority": 1
+      },
+      {
+        "artist": "Mills Brothers",
+        "track": "You Always Hurt The One You Love",
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "San Fernando Valley",
+
+        "priority": 1
+      },
+      {
+        "artist": "Glen Gray & Casa Loma Orchestra",
+        "track": "My Heart Tells Me",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "I Love You",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1945": {
+    "tracks": [
+      {
+        "artist": "Andrews Sisters",
+        "track": "Rum and Coca-Cola",
+      },
+      {
+        "artist": "Perry Como",
+        "track": "Till The End Of Time",
+      },
+      {
+        "artist": "Les Brown & His Orchestra",
+        "track": "Sentimental Journey",
+
+        "priority": 1
+      },
+      {
+        "artist": "Johnny Mercer",
+        "track": "On The Atchison, Topeka, And Santa Fe",
+
+        "priority": 1
+      },
+      {
+        "artist": "Les Brown & His Orchestra",
+        "track": "My Dreams Are Getting Better All The Time",
+
+        "priority": 1
+      },
+      {
+        "artist": "Vaughn Monroe & His Orchestra",
+        "track": "There! I've Said it Again",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bing Crosby",
+        "track": "I Can't Begin to Tell You",
+      },
+      {
+        "artist": "Sammy Kaye & His Orchestra",
+        "track": "Chickery Chick",
+      },
+      {
+        "artist": "Harry James & His Orchestra",
+        "track": "It's Been a Long, Long Time",
+
+        "priority": 1
+      },
+      {
+        "artist": "Harry James & His Orchestra",
+        "track": "I'm Beginning To See The Light",
+      }
+    ]
+  },
+  "1946": {
+    "tracks": [
+      {
+        "artist": "Ink Spots",
+        "track": "The Gypsy",
+      },
+      {
+        "artist": "Frankie Carle & His Orchestra",
+        "track": "Oh! What It Seemed to Be",
+
+        "priority": 1
+      },
+      {
+        "artist": "Frankie Carle & His Orchestra",
+        "track": "Rumors Are Flying",
+      },
+      {
+        "artist": "Eddy Howard & His Orchestra",
+        "track": "To Each His Own",
+      },
+      {
+        "artist": "Dinah Shore",
+        "track": "The Gypsy",
+
+        "priority": 1
+      },
+      {
+        "artist": "Frank Sinatra",
+        "track": "Oh! What It Seemed to Be",
+
+        "priority": 1
+      },
+      {
+        "artist": "Sammy Kaye & His Orchestra",
+        "track": "The Old Lamp-Lighter",
+      },
+      {
+        "artist": "King Cole Trio",
+        "track": "(I Love You) For Sentimental Reasons",
+
+        "priority": 1
+      },
+      {
+        "artist": "Vaughn Monroe & His Orchestra",
+        "track": "Let It Snow! Let It Snow! Let It Snow!",
+      },
+      {
+        "artist": "Frank Sinatra",
+        "track": "Five Minutes More",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1947": {
+    "tracks": [
+      {
+        "artist": "Francis Craig & His Orchestra",
+        "track": "Near You",
+      },
+      {
+        "artist": "Ted Weems & His Orchestra",
+        "track": "Heartaches (Victor rec)",
+
+        "priority": 1
+      },
+      {
+        "artist": "Vaughn Monroe & His Orchestra",
+        "track": "Ballerina",
+
+        "priority": 1
+      },
+      {
+        "artist": "Harmonicats",
+        "track": "Peg O' My Heart",
+
+        "priority": 1
+      },
+      {
+        "artist": "Tex Williams & The Western Caravan",
+        "track": "Smoke! Smoke! Smoke! (That Cigarette)",
+      },
+      {
+        "artist": "Buddy Clark",
+        "track": "Peg O' My Heart",
+      },
+      {
+        "artist": "Three Suns",
+        "track": "Peg O' My Heart",
+
+        "priority": 1
+      },
+      {
+        "artist": "Perry Como",
+        "track": "Chi-Baba Chi-Baba (My Bambino Go To Sleep)",
+      },
+      {
+        "artist": "Freddy Martin & His Orchestra",
+        "track": "Managua, Nicaragua",
+      }
+    ]
+  },
+  "1948": {
+    "tracks": [
+      {
+        "artist": "Dinah Shore",
+        "track": "Buttons and Bows",
+      },
+      {
+        "artist": "Peggy Lee (Dave Barbour Orchestra)",
+        "track": "Manana (Is Soon Enough for Me)",
+      },
+      {
+        "artist": "Pee Wee Hunt Orch",
+        "track": "Twelfth Street Rag",
+
+        "priority": 1
+      },
+      {
+        "artist": "Nat \"King\" Cole ",
+        "track": "Nature Boy",
+      },
+      {
+        "artist": "Ken Griffin ",
+        "track": "You Can't Be True, Dear",
+      },
+      {
+        "artist": "Al Trace & His Orchestra",
+        "track": "You Call Everybody Darlin'",
+      },
+      {
+        "artist": "Kay Kyser & His Orchestra",
+        "track": "Woody Woodpecker",
+      },
+      {
+        "artist": "Doris Day & Buddy Clark",
+        "track": "Love Somebody",
+      },
+      {
+        "artist": "Margaret Whiting",
+        "track": "A Tree In The Meadow",
+
+        "priority": 1
+      },
+      {
+        "artist": "Art Mooney & His Orchestra",
+        "track": "I'm Looking Over A Four Leaf Clover",
+      }
+    ]
+  },
+  "1949": {
+    "tracks": [
+      {
+        "artist": "Vaughn Monroe & His Orchestra",
+        "track": "Riders in the Sky (A Cowboy Legend)",
+      },
+      {
+        "artist": "Frankie Laine",
+        "track": "That Lucky Old Sun",
+      },
+      {
+        "artist": "Russ Morgan & His Orchestra",
+        "track": "Cruising Down the River",
+      },
+      {
+        "artist": "Evelyn Knight",
+        "track": "A Little Bird Told Me",
+      },
+      {
+        "artist": "Blue Barron & His Orchestra",
+        "track": "Cruising Down The River",
+      },
+      {
+        "artist": "Frankie Laine",
+        "track": "Mule Train",
+
+        "priority": 1
+      },
+      {
+        "artist": "Perry Como",
+        "track": "Some Enchanted Evening",
+
+        "priority": 1
+      },
+      {
+        "artist": "Vic Damone",
+        "track": "You're Breaking My Heart",
+
+        "priority": 1
+      },
+      {
+        "artist": "Russ Morgan & His Orchestra",
+        "track": "Forever and Ever",
+      },
+      {
+        "artist": "Margaret Whiting & Jimmy Wakely",
+        "track": "Slippin' Around",
+      }
+    ]
+  },
+  "1950": {
+    "tracks": [
+      {
+        "artist": "Patti Page",
+        "track": "The Tennessee Waltz",
+      },
+      {
+        "artist": "Weavers (Gordon Jenkins & His Orchestra)",
+        "track": "Goodnight, Irene",
+      },
+      {
+        "artist": "Anton Karas",
+        "track": "The Third Man Theme",
+
+        "priority": 1
+      },
+      {
+        "artist": "Guy Lombardo & His Royal Canadians",
+        "track": "The Third Man Theme",
+      },
+      {
+        "artist": "Eileen Barton",
+        "track": "If I Knew You Were Comin' I'd've Baked a Cake",
+      },
+      {
+        "artist": "Nat \"King\" Cole ",
+        "track": "Mona Lisa",
+      },
+      {
+        "artist": "Red Foley",
+        "track": "Chattanoogie Shoe Shine Boy",
+      },
+      {
+        "artist": "Andrews Sisters",
+        "track": "I Can Dream, Can't I?",
+      },
+      {
+        "artist": "Patti Page",
+        "track": "All My Love (Bolero)",
+
+        "priority": 1
+      },
+      {
+        "artist": "Phil Harris",
+        "track": "The Thing",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1951": {
+    "tracks": [
+      {
+        "artist": "Johnnie Ray & Four Lads",
+        "track": "Cry",
+      },
+      {
+        "artist": "Tony Bennett",
+        "track": "Because of You",
+      },
+      {
+        "artist": "Les Paul & Mary Ford",
+        "track": "How High The Moon",
+      },
+      {
+        "artist": "Perry Como",
+        "track": "If",
+
+        "priority": 1
+      },
+      {
+        "artist": "Eddy Howard & His Orchestra",
+        "track": "Sin (It's No Sin)",
+      },
+      {
+        "artist": "Rosemary Clooney",
+        "track": "Come On-A My House",
+      },
+      {
+        "artist": "Tony Bennett",
+        "track": "Cold, Cold Heart",
+      },
+      {
+        "artist": "Nat \"King\" Cole",
+        "track": "Too Young",
+      },
+      {
+        "artist": "Mario Lanza",
+        "track": "Be My Love",
+      },
+      {
+        "artist": "Weavers",
+        "track": "On Top of Old Smoky",
+      }
+    ]
+  },
+  "1952": {
+    "tracks": [
+      {
+        "artist": "Jo Stafford",
+        "track": "You Belong To Me",
+      },
+      {
+        "artist": "Kay Starr",
+        "track": "Wheel of Fortune",
+      },
+      {
+        "artist": "Patti Page",
+        "track": "I Went to Your Wedding",
+
+        "priority": 1
+      },
+      {
+        "artist": "Vera Lynn",
+        "track": "Auf Wiederseh'n Sweetheart",
+      },
+      {
+        "artist": "Georgia Gibbs",
+        "track": "Kiss of Fire",
+
+        "priority": 1
+      },
+      {
+        "artist": "Joni James",
+        "track": "Why Don't You Believe Me",
+      },
+      {
+        "artist": "Leroy Anderson & His \"Pops\" Concert Orchestra",
+        "track": "Blue Tango",
+      },
+      {
+        "artist": "Rosemary Clooney",
+        "track": "Half as Much",
+
+        "priority": 1
+      },
+      {
+        "artist": "Pee Wee King & His Golden West Cowboys",
+        "track": "Slow Poke",
+      },
+      {
+        "artist": "Mills Brothers",
+        "track": "The Glow-Worm",
+      }
+    ]
+  },
+  "1953": {
+    "tracks": [
+      {
+        "artist": "Les Paul & Mary Ford",
+        "track": "Vaya Con Dios (May God Be With You)",
+      },
+      {
+        "artist": "Percy Faith & His Orchestra",
+        "track": "Song From \"Moulin Rouge\" (Where is Your Heart)",
+      },
+      {
+        "artist": "Ames Brothers",
+        "track": "You You You",
+      },
+      {
+        "artist": "Tony Bennett",
+        "track": "Rags To Riches",
+      },
+      {
+        "artist": "Patti Page",
+        "track": "The Doggie In The Window",
+      },
+      {
+        "artist": "Eddie Fisher",
+        "track": "I'm Walking Behind You",
+      },
+      {
+        "artist": "Teresa Brewer",
+        "track": "Till I Waltz Again with You",
+
+        "priority": 1
+      },
+      {
+        "artist": "Perry Como",
+        "track": "Don't Let the Stars Get In Your Eyes",
+      },
+      {
+        "artist": "Perry Como",
+        "track": "No Other Love",
+      },
+      {
+        "artist": "Stan Freberg",
+        "track": "St. George and the Dragonet",
+      }
+    ]
+  },
+  "1954": {
+    "tracks": [
+      {
+        "artist": "Kitty Kallen",
+        "track": "Little Things Mean A Lot",
+      },
+      {
+        "artist": "Crew-Cuts",
+        "track": "Sh-Boom",
+
+        "priority": 1
+      },
+      {
+        "artist": "Perry Como",
+        "track": "Wanted",
+      },
+      {
+        "artist": "Eddie Fisher",
+        "track": "Oh! My Pa-pa",
+      },
+      {
+        "artist": "Jo Stafford",
+        "track": "Make Love To Me!",
+      },
+      {
+        "artist": "Chordettes",
+        "track": "Mr. Sandman",
+      },
+      {
+        "artist": "Rosemary Clooney",
+        "track": "Hey There",
+      },
+      {
+        "artist": "Doris Day",
+        "track": "Secret Love",
+
+        "priority": 1
+      },
+      {
+        "artist": "Rosemary Clooney",
+        "track": "This Ole House",
+      },
+      {
+        "artist": "Eddie Fisher",
+        "track": "I Need You Now",
+      }
+    ]
+  },
+  "1955": {
+    "tracks": [
+      {
+        "artist": "Perez Prado",
+        "track": "Cherry Pink And Apple Blossom White",
+      },
+      {
+        "artist": "The McGuire Sisters",
+        "track": "Sincerely",
+      },
+      {
+        "artist": "Bill Haley and His Comets",
+        "track": "(We're Gonna) Rock Around The Clock",
+      },
+      {
+        "artist": "\"Tennessee\" Ernie Ford",
+        "track": "Sixteen Tons",
+      },
+      {
+        "artist": "Four Aces",
+        "track": "Love Is A Many Splendored Thing",
+      },
+      {
+        "artist": "Mitch Miller Orchestra & Chorus",
+        "track": "The Yellow Rose Of Texas",
+      },
+      {
+        "artist": "Bill Hayes",
+        "track": "The Ballad Of Davy Crockett",
+      },
+      {
+        "artist": "Roger Williams",
+        "track": "Autumn Leaves",
+      },
+      {
+        "artist": "Joan Weber",
+        "track": "Let Me Go, Lover!",
+
+        "priority": 1
+      },
+      {
+        "artist": "Georgia Gibbs",
+        "track": "Dance With Me Henry (Wallflower)",
+      }
+    ]
+  },
+  "1956": {
+    "tracks": [
+      {
+        "artist": "Elvis Presley",
+        "track": "Don't Be Cruel",
+      },
+      {
+        "artist": "Elvis Presley",
+        "track": "Hound Dog",
+      },
+      {
+        "artist": "Guy Mitchell",
+        "track": "Singing The Blues",
+      },
+      {
+        "artist": "Gogi Grant",
+        "track": "The Wayward Wind",
+      },
+      {
+        "artist": "Elvis Presley",
+        "track": "Heartbreak Hotel",
+      },
+      {
+        "artist": "Kay Starr",
+        "track": "Rock And Roll Waltz",
+      },
+      {
+        "artist": "Les Baxter & His Orchestra",
+        "track": "The Poor People Of Paris",
+      },
+      {
+        "artist": "Dean Martin",
+        "track": "Memories Are Made Of This",
+      },
+      {
+        "artist": "Elvis Presley",
+        "track": "Love Me Tender",
+      },
+      {
+        "artist": "The Platters",
+        "track": "My Prayer",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1957": {
+    "tracks": [
+      {
+        "artist": "Elvis Presley",
+        "track": "All Shook Up",
+      },
+      {
+        "artist": "Pat Boone",
+        "track": "Love Letters In The Sand",
+      },
+      {
+        "artist": "Elvis Presley",
+        "track": "Jailhouse Rock",
+      },
+      {
+        "artist": "Elvis Presley",
+        "track": "(Let Me Be Your) Teddy Bear",
+      },
+      {
+        "artist": "Pat Boone",
+        "track": "April Love",
+      },
+      {
+        "artist": "Tab Hunter",
+        "track": "Young Love",
+
+        "priority": 1
+      },
+      {
+        "artist": "Debbie Reynolds",
+        "track": "Tammy",
+      },
+      {
+        "artist": "Jimmie Rodgers",
+        "track": "Honeycomb",
+      },
+      {
+        "artist": "The Everly Brothers",
+        "track": "Wake Up Little Susie",
+      },
+      {
+        "artist": "Sam Cooke",
+        "track": "You Send Me",
+      }
+    ]
+  },
+  "1958": {
+    "tracks": [
+      {
+        "artist": "Danny & The Juniors",
+        "track": "At The Hop",
+      },
+      {
+        "artist": "Tommy Edwards",
+        "track": "It's All In The Game",
+      },
+      {
+        "artist": "Sheb Wooley",
+        "track": "The Purple People Eater",
+      },
+      {
+        "artist": "The Everly Brothers",
+        "track": "All I Have To Do Is Dream",
+      },
+      {
+        "artist": "The Champs",
+        "track": "Tequila",
+      },
+      {
+        "artist": "Elvis Presley",
+        "track": "Don't",
+      },
+      {
+        "artist": "Domenico Modugno",
+        "track": "Nel Blu Dipinto Di Blu (Volare)",
+      },
+      {
+        "artist": "The McGuire Sisters",
+        "track": "Sugartime",
+      },
+      {
+        "artist": "Laurie London",
+        "track": "He's Got The Whole World (In His Hands)",
+      },
+      {
+        "artist": "The Chipmunks",
+        "track": "The Chipmunk Song",
+      }
+    ]
+  },
+  "1959": {
+    "tracks": [
+      {
+        "artist": "Bobby Darin",
+        "track": "Mack The Knife",
+      },
+      {
+        "artist": "Johnny Horton",
+        "track": "The Battle Of New Orleans",
+      },
+      {
+        "artist": "Frankie Avalon",
+        "track": "Venus",
+      },
+      {
+        "artist": "Lloyd Price",
+        "track": "Stagger Lee",
+      },
+      {
+        "artist": "The Browns",
+        "track": "The Three Bells",
+      },
+      {
+        "artist": "Paul Anka",
+        "track": "Lonely Boy",
+      },
+      {
+        "artist": "The Fleetwoods",
+        "track": "Come Softly To Me",
+      },
+      {
+        "artist": "The Platters",
+        "track": "Smoke Gets In Your Eyes",
+      },
+      {
+        "artist": "Guy Mitchell",
+        "track": "Heartaches By The Number",
+      },
+      {
+        "artist": "Santo and Johnny",
+        "track": "Sleep Walk",
+      }
+    ]
+  },
+  "1960": {
+    "tracks": [
+      {
+        "artist": "Percy Faith",
+        "track": "The Theme From \"A Summer Place\"",
+      },
+      {
+        "artist": "Elvis Presley",
+        "track": "Are You Lonesome To-Night?",
+      },
+      {
+        "artist": "Elvis Presley",
+        "track": "It's Now Or Never",
+      },
+      {
+        "artist": "The Everly Brothers",
+        "track": "Cathy's Clown",
+      },
+      {
+        "artist": "Elvis Presley",
+        "track": "Stuck On You",
+      },
+      {
+        "artist": "Brenda Lee",
+        "track": "I'm Sorry",
+      },
+      {
+        "artist": "Johnny Preston",
+        "track": "Running Bear",
+      },
+      {
+        "artist": "The Drifters",
+        "track": "Save The Last Dance For Me",
+      },
+      {
+        "artist": "Mark Dinning",
+        "track": "Teen Angel",
+      },
+      {
+        "artist": "Connie Francis",
+        "track": "My Heart Has A Mind Of Its Own",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1961": {
+    "tracks": [
+      {
+        "artist": "Bobby Lewis",
+        "track": "Tossin' And Turnin'",
+      },
+      {
+        "artist": "Jimmy Dean",
+        "track": "Big Bad John",
+      },
+      {
+        "artist": "Del Shannon",
+        "track": "Runaway",
+      },
+      {
+        "artist": "Bert Kaempfert and His Orchestra",
+        "track": "Wonderland By Night",
+      },
+      {
+        "artist": "Chubby Checker",
+        "track": "Pony Time",
+      },
+      {
+        "artist": "The Tokens",
+        "track": "The Lion Sleeps Tonight",
+      },
+      {
+        "artist": "The Marcels",
+        "track": "Blue Moon",
+      },
+      {
+        "artist": "Bobby Vee",
+        "track": "Take Good Care Of My Baby",
+      },
+      {
+        "artist": "Lawrence Welk",
+        "track": "Calcutta",
+      },
+      {
+        "artist": "Dion",
+        "track": "Runaround Sue",
+      }
+    ]
+  },
+  "1962": {
+    "tracks": [
+      {
+        "artist": "Ray Charles",
+        "track": "I Can't Stop Loving You",
+      },
+      {
+        "artist": "The 4 Seasons",
+        "track": "Big Girls Don't Cry",
+      },
+      {
+        "artist": "The 4 Seasons",
+        "track": "Sherry",
+      },
+      {
+        "artist": "Bobby Vinton",
+        "track": "Roses Are Red (My Love)",
+
+        "priority": 1
+      },
+      {
+        "artist": "Joey Dee & the Starliters",
+        "track": "Peppermint Twist - Part 1",
+      },
+      {
+        "artist": "The Tornadoes",
+        "track": "Telstar",
+      },
+      {
+        "artist": "The Shirelles",
+        "track": "Soldier Boy",
+      },
+      {
+        "artist": "Bruce Channel",
+        "track": "Hey! Baby",
+      },
+      {
+        "artist": "Duke Of Earl",
+        "track": "Duke Of Earl",
+      },
+      {
+        "artist": "Chubby Checker",
+        "track": "The Twist",
+      }
+    ]
+  },
+  "1963": {
+    "tracks": [
+      {
+        "artist": "Jimmy Gilmer",
+        "track": "Sugar Shack",
+      },
+      {
+        "artist": "The Chiffons",
+        "track": "He's So Fine",
+      },
+      {
+        "artist": "The Singing Nun",
+        "track": "Dominique",
+      },
+      {
+        "artist": "Paul and Paula",
+        "track": "Hey Paula",
+      },
+      {
+        "artist": "The Angels",
+        "track": "My Boyfriend's Back",
+      },
+      {
+        "artist": "Bobby Vinton",
+        "track": "Blue Velvet",
+      },
+      {
+        "artist": "Kyu Sakamoto",
+        "track": "Sukiyaki",
+      },
+      {
+        "artist": "Little Peggy March",
+        "track": "I Will Follow Him",
+      },
+      {
+        "artist": "The 4 Seasons",
+        "track": "Walk Like A Man",
+      }
+    ]
+  },
+  "1964": {
+    "tracks": [
+      {
+        "artist": "The Beatles",
+        "track": "I Want To Hold Your Hand",
+
+        "priority": 1
+      },
+      {
+        "artist": "The Beatles",
+        "track": "Can't Buy Me Love",
+      },
+      {
+        "artist": "Bobby Vinton",
+        "track": "There! I've Said It Again",
+      },
+      {
+        "artist": "The Supremes",
+        "track": "Baby Love",
+      },
+      {
+        "artist": "Roy Orbison",
+        "track": "Oh, Pretty Woman",
+      },
+      {
+        "artist": "The Animals",
+        "track": "The House Of The Rising Sun",
+      },
+      {
+        "artist": "The Dixie Cups",
+        "track": "Chapel Of Love",
+      },
+      {
+        "artist": "The Beatles",
+        "track": "I Feel Fine",
+      },
+      {
+        "artist": "The Beatles",
+        "track": "She Loves You",
+      },
+      {
+        "artist": "The Beach Boys",
+        "track": "I Get Around",
+      }
+    ]
+  },
+  "1965": {
+    "tracks": [
+      {
+        "artist": "The Rolling Stones",
+        "track": "(I Can't Get No) Satisfaction",
+
+        "priority": 1
+      },
+      {
+        "artist": "The Beatles",
+        "track": "Yesterday",
+      },
+      {
+        "artist": "The Byrds",
+        "track": "Turn! Turn! Turn! (To Everything There Is A Season)",
+      },
+      {
+        "artist": "Herman's Hermits",
+        "track": "Mrs. Brown You've Got A Lovely Daughter",
+      },
+      {
+        "artist": "Sonny & Cher",
+        "track": "I Got You Babe",
+      },
+      {
+        "artist": "The Beatles",
+        "track": "Help!",
+      },
+      {
+        "artist": "Four Tops",
+        "track": "I Can't Help Myself",
+      },
+      {
+        "artist": "The Righteous Brothers",
+        "track": "You've Lost That Lovin' Feelin'",
+      },
+      {
+        "artist": "Petula Clark",
+        "track": "Downtown",
+      },
+      {
+        "artist": "Gary Lewis and the Playboys",
+        "track": "This Diamond Ring",
+      }
+    ]
+  },
+  "1966": {
+    "tracks": [
+      {
+        "artist": "The Monkees",
+        "track": "I'm A Believer",
+
+        "priority": 1
+      },
+      {
+        "artist": "Barry Sadler",
+        "track": "The Ballad Of The Green Berets",
+      },
+      {
+        "artist": "The New Vaudeville Band",
+        "track": "Winchester Cathedral",
+      },
+      {
+        "artist": "The Righteous Brothers",
+        "track": "(You're My) Soul And Inspiration",
+      },
+      {
+        "artist": "The Mamas & The Papas",
+        "track": "Monday, Monday",
+      },
+      {
+        "artist": "The Beatles",
+        "track": "We Can Work It Out",
+      },
+      {
+        "artist": "The Lovin' Spoonful",
+        "track": "Summer In The City",
+      },
+      {
+        "artist": "The Association",
+        "track": "Cherish",
+      },
+      {
+        "artist": "The Supremes",
+        "track": "You Can't Hurry Love",
+      },
+      {
+        "artist": "The Troggs",
+        "track": "Wild Thing",
+      }
+    ]
+  },
+  "1967": {
+    "tracks": [
+      {
+        "artist": "Lulu",
+        "track": "To Sir With Love",
+      },
+      {
+        "artist": "The Monkees",
+        "track": "Daydream Believer",
+      },
+      {
+        "artist": "The Association",
+        "track": "Windy",
+      },
+      {
+        "artist": "Bobbie Gentry",
+        "track": "Ode To Billie Joe",
+      },
+      {
+        "artist": "Nancy Sinatra",
+        "track": "Somethin' Stupid",
+
+        "priority": 1
+      },
+      {
+        "artist": "The Young Rascals",
+        "track": "Groovin'",
+
+        "priority": 1
+      },
+      {
+        "artist": "The Box Tops",
+        "track": "The Letter",
+      },
+      {
+        "artist": "The Doors",
+        "track": "Light My Fire",
+      },
+      {
+        "artist": "The Turtles",
+        "track": "Happy Together",
+      },
+      {
+        "artist": "The Beatles",
+        "track": "Hello Goodbye",
+      }
+    ]
+  },
+  "1968": {
+    "tracks": [
+      {
+        "artist": "The Beatles",
+        "track": "Hey Jude",
+
+        "priority": 1
+      },
+      {
+        "artist": "Marvin Gaye",
+        "track": "I Heard It Through The Grapevine",
+      },
+      {
+        "artist": "Paul Mauriat and His Orchestra",
+        "track": "Love Is Blue (L'Amour Est Bleu)",
+      },
+      {
+        "artist": "Bobby Goldsboro",
+        "track": "Honey",
+      },
+      {
+        "artist": "The Rascals",
+        "track": "People Got To Be Free",
+      },
+      {
+        "artist": "Otis Redding",
+        "track": "(Sittin' On) The Dock Of The Bay",
+      },
+      {
+        "artist": "Herb Alpert",
+        "track": "This Guy's In Love With You",
+      },
+      {
+        "artist": "Simon and Garfunkel",
+        "track": "Mrs. Robinson",
+      },
+      {
+        "artist": "Diana Ross and the Supremes",
+        "track": "Love Child",
+      },
+      {
+        "artist": "Archie Bell & The Drells",
+        "track": "Tighten Up",
+      }
+    ]
+  },
+  "1969": {
+    "tracks": [
+      {
+        "artist": "The 5th Dimension",
+        "track": "Aquarius/Let The Sunshine In (The Flesh Failures)",
+      },
+      {
+        "artist": "Zager & Evans",
+        "track": "In The Year 2525 (Exordium & Terminus)",
+      },
+      {
+        "artist": "The Beatles",
+        "track": "Get Back",
+      },
+      {
+        "artist": "The Archies",
+        "track": "Sugar, Sugar",
+      },
+      {
+        "artist": "The Rolling Stones",
+        "track": "Honky Tonk Women",
+      },
+      {
+        "artist": "Sly & the Family Stone",
+        "track": "Everyday People",
+      },
+      {
+        "artist": "Tommy Roe",
+        "track": "Dizzy",
+      },
+      {
+        "artist": "The 5th Dimension",
+        "track": "Wedding Bell Blues",
+      },
+      {
+        "artist": "The Temptations",
+        "track": "I Can't Get Next To You",
+      },
+      {
+        "artist": "Tommy James and the Shondells",
+        "track": "Crimson And Clover",
+      }
+    ]
+  },
+  "1970": {
+    "tracks": [
+      {
+        "artist": "Simon and Garfunkel",
+        "track": "Bridge Over Troubled Water",
+      },
+      {
+        "artist": "Jackson 5",
+        "track": "I'll Be There",
+      },
+      {
+        "artist": "B.J. Thomas",
+        "track": "Raindrops Keep Fallin' On My Head",
+      },
+      {
+        "artist": "Carpenters",
+        "track": "(They Long To Be) Close To You",
+      },
+      {
+        "artist": "George Harrison",
+        "track": "My Sweet Lord",
+      },
+      {
+        "artist": "The Partridge Family",
+        "track": "I Think I Love You",
+
+        "priority": 1
+      },
+      {
+        "artist": "Diana Ross",
+        "track": "Ain't No Mountain High Enough",
+      },
+      {
+        "artist": "The Guess Who",
+        "track": "American Woman",
+      },
+      {
+        "artist": "Edwin Starr",
+        "track": "War",
+      },
+      {
+        "artist": "The Beatles",
+        "track": "Let It Be",
+      }
+    ]
+  },
+  "1971": {
+    "tracks": [
+      {
+        "artist": "Three Dog Night",
+        "track": "Joy To The World",
+      },
+      {
+        "artist": "Rod Stewart",
+        "track": "Maggie May",
+      },
+      {
+        "artist": "Carole King",
+        "track": "It's Too Late",
+      },
+      {
+        "artist": "The Osmonds",
+        "track": "One Bad Apple",
+      },
+      {
+        "artist": "Bee Gees",
+        "track": "How Can You Mend A Broken Heart",
+      },
+      {
+        "artist": "Dawn",
+        "track": "Knock Three Times",
+      },
+      {
+        "artist": "Melanie",
+        "track": "Brand New Key",
+      },
+      {
+        "artist": "Donny Osmond",
+        "track": "Go Away Little Girl",
+      },
+      {
+        "artist": "Sly & The Family Stone",
+        "track": "Family Affair",
+      },
+      {
+        "artist": "Cher",
+        "track": "Gypsys, Tramps & Thieves",
+      }
+    ]
+  },
+  "1972": {
+    "tracks": [
+      {
+        "artist": "Roberta Flack",
+        "track": "The First Time Ever I Saw Your Face",
+      },
+      {
+        "artist": "Gilbert O'Sullivan",
+        "track": "Alone Again (Naturally)",
+      },
+      {
+        "artist": "Don McLean",
+        "track": "American Pie",
+      },
+      {
+        "artist": "Nilsson",
+        "track": "Without You",
+      },
+      {
+        "artist": "Johnny Nash",
+        "track": "I Can See Clearly Now",
+      },
+      {
+        "artist": "America",
+        "track": "A Horse With No Name",
+      },
+      {
+        "artist": "Mac Davis",
+        "track": "Baby Don't Get Hooked On Me",
+      },
+      {
+        "artist": "Billy Paul",
+        "track": "Me And Mrs. Jones",
+      },
+      {
+        "artist": "Sammy Davis Jr.",
+        "track": "The Candy Man",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bill Withers",
+        "track": "Lean On Me",
+      }
+    ]
+  },
+  "1973": {
+    "tracks": [
+      {
+        "artist": "Roberta Flack",
+        "track": "Killing Me Softly With His Song",
+      },
+      {
+        "artist": "Dawn",
+        "track": "Tie A Yellow Ribbon Round The Ole Oak Tree",
+      },
+      {
+        "artist": "Paul McCartney",
+        "track": "My Love",
+      },
+      {
+        "artist": "Carly Simon",
+        "track": "You're So Vain",
+      },
+      {
+        "artist": "Elton John",
+        "track": "Crocodile Rock",
+      },
+      {
+        "artist": "Marvin Gaye",
+        "track": "Let's Get It On",
+      },
+      {
+        "artist": "Eddie Kendricks",
+        "track": "Keep On Truckin' (Part 1)",
+      },
+      {
+        "artist": "Jim Croce",
+        "track": "Bad, Bad Leroy Brown",
+      },
+      {
+        "artist": "Carpenters",
+        "track": "Top Of The World",
+      },
+      {
+        "artist": "Gladys Knight and the Pips",
+        "track": "Midnight Train To Georgia",
+      }
+    ]
+  },
+  "1974": {
+    "tracks": [
+      {
+        "artist": "Barbra Streisand",
+        "track": "The Way We Were",
+      },
+      {
+        "artist": "Terry Jacks",
+        "track": "Seasons In The Sun",
+      },
+      {
+        "artist": "Ray Stevens",
+        "track": "The Streak",
+      },
+      {
+        "artist": "Paul Anka",
+        "track": "(You're) Having My Baby",
+      },
+      {
+        "artist": "Carl Douglas",
+        "track": "Kung Fu Fighting",
+      },
+      {
+        "artist": "Bo Donaldson & The Heywoods",
+        "track": "Billy, Don't Be A Hero",
+      },
+      {
+        "artist": "John Denver",
+        "track": "Annie's Song",
+      },
+      {
+        "artist": "Grand Funk",
+        "track": "The Loco-Motion",
+      },
+      {
+        "artist": "MFSB",
+        "track": "TSOP (The Sound Of Philadelphia)",
+      },
+      {
+        "artist": "Billy Swan",
+        "track": "I Can Help",
+      }
+    ]
+  },
+  "1975": {
+    "tracks": [
+      {
+        "artist": "The Captain and Tennille",
+        "track": "Love Will Keep Us Together",
+      },
+      {
+        "artist": "Silver Convention",
+        "track": "Fly, Robin, Fly",
+      },
+      {
+        "artist": "Elton John",
+        "track": "Island Girl",
+      },
+      {
+        "artist": "Tony Orlando and Dawn",
+        "track": "He Don't Love You (Like I Love You)",
+      },
+      {
+        "artist": "Neil Sedaka",
+        "track": "Bad Blood",
+      },
+      {
+        "artist": "Glen Campbell",
+        "track": "Rhinestone Cowboy",
+      },
+      {
+        "artist": "Elton John",
+        "track": "Philadelphia Freedom",
+      },
+      {
+        "artist": "K.C and the Sunshine Band",
+        "track": "That's The Way (I Like It)",
+      },
+      {
+        "artist": "Bee Gees",
+        "track": "Jive Talkin'",
+      },
+      {
+        "artist": "David Bowie",
+        "track": "Fame",
+      }
+    ]
+  },
+  "1976": {
+    "tracks": [
+      {
+        "artist": "Rod Stewart",
+        "track": "Tonight's The Night (Gonna Be Alright)",
+      },
+      {
+        "artist": "Wings",
+        "track": "Silly Love Songs",
+      },
+      {
+        "artist": "Elton John",
+        "track": "Don't Go Breaking My Heart",
+      },
+      {
+        "artist": "Johnnie Taylor",
+        "track": "Disco Lady",
+      },
+      {
+        "artist": "Wild Cherry",
+        "track": "Play That Funky Music",
+      },
+      {
+        "artist": "The Four Seasons",
+        "track": "December 1963 (Oh, What A Night)",
+      },
+      {
+        "artist": "Paul Simon",
+        "track": "50 Ways To Leave Your Lover",
+      },
+      {
+        "artist": "The Manhattans",
+        "track": "Kiss And Say Goodbye",
+      },
+      {
+        "artist": "Chicago",
+        "track": "If You Leave Me Now",
+      },
+      {
+        "artist": "Diana Ross",
+        "track": "Love Hangover",
+      }
+    ]
+  },
+  "1977": {
+    "tracks": [
+      {
+        "artist": "Debby Boone",
+        "track": "You Light Up My Life",
+      },
+      {
+        "artist": "The Emotions",
+        "track": "Best Of My Love",
+      },
+      {
+        "artist": "Andy Gibb",
+        "track": "I Just Want To Be Your Everything",
+      },
+      {
+        "artist": "Bee Gees",
+        "track": "How Deep Is Your Love",
+      },
+      {
+        "artist": "Barbra Streisand",
+        "track": "Love Theme From A Star Is Born (Evergreen)",
+      },
+      {
+        "artist": "Stevie Wonder",
+        "track": "Sir Duke",
+      },
+      {
+        "artist": "Mary MacGregor",
+        "track": "Torn Between Two Lovers",
+      },
+      {
+        "artist": "Daryl Hall & John Oates",
+        "track": "Rich Girl",
+      },
+      {
+        "artist": "Marvin Gaye",
+        "track": "Got To Give It Up (Part 1)",
+      },
+      {
+        "artist": "Rose Royce",
+        "track": "Car Wash",
+      }
+    ]
+  },
+  "1978": {
+    "tracks": [
+      {
+        "artist": "Bee Gees",
+        "track": "Night Fever",
+      },
+      {
+        "artist": "Andy Gibb",
+        "track": "Shadow Dancing",
+      },
+      {
+        "artist": "Chic",
+        "track": "Le Freak",
+      },
+      {
+        "artist": "Bee Gees",
+        "track": "Stayin' Alive",
+      },
+      {
+        "artist": "Exile",
+        "track": "Kiss You All Over",
+      },
+      {
+        "artist": "A Taste Of Honey",
+        "track": "Boogie Oogie Oogie",
+      },
+      {
+        "artist": "Player",
+        "track": "Baby Come Back",
+      },
+      {
+        "artist": "Donna Summer",
+        "track": "MacArthur Park",
+
+        "priority": 1
+      },
+      {
+        "artist": "Andy Gibb",
+        "track": "(Love Is) Thicker Than Water",
+      },
+      {
+        "artist": "Commodores",
+        "track": "Three Times A Lady",
+      }
+    ]
+  },
+  "1979": {
+    "tracks": [
+      {
+        "artist": "The Knack",
+        "track": "My Sharona",
+      },
+      {
+        "artist": "Donna Summer",
+        "track": "Bad Girls",
+      },
+      {
+        "artist": "Rod Stewart",
+        "track": "Do Ya Think I'm Sexy?",
+      },
+      {
+        "artist": "Peaches & Herb",
+        "track": "Reunited",
+      },
+      {
+        "artist": "Donna Summer",
+        "track": "Hot Stuff",
+      },
+      {
+        "artist": "Gloria Gaynor",
+        "track": "I Will Survive",
+      },
+      {
+        "artist": "Rupert Holmes",
+        "track": "Escape (The Pina Colada Song)",
+      },
+      {
+        "artist": "Anita Ward",
+        "track": "Ring My Bell",
+      },
+      {
+        "artist": "Styx",
+        "track": "Babe",
+      },
+      {
+        "artist": "Bee Gees",
+        "track": "Too Much Heaven",
+      }
+    ]
+  },
+  "1980": {
+    "tracks": [
+      {
+        "artist": "Kenny Rogers",
+        "track": "Lady",
+      },
+      {
+        "artist": "Blondie",
+        "track": "Call Me",
+      },
+      {
+        "artist": "John Lennon",
+        "track": "(Just Like) Starting Over",
+      },
+      {
+        "artist": "Diana Ross",
+        "track": "Upside Down",
+      },
+      {
+        "artist": "Pink Floyd",
+        "track": "Another Brick In The Wall (Part II)",
+      },
+      {
+        "artist": "Queen",
+        "track": "Crazy Little Thing Called Love",
+      },
+      {
+        "artist": "Michael Jackson",
+        "track": "Rock With You",
+      },
+      {
+        "artist": "Olivia Newton-John",
+        "track": "Magic",
+      },
+      {
+        "artist": "Lipps, Inc.",
+        "track": "Funkytown",
+      },
+      {
+        "artist": "Queen",
+        "track": "Another One Bites The Dust",
+      }
+    ]
+  },
+  "1981": {
+    "tracks": [
+      {
+        "artist": "Olivia Newton-John",
+        "track": "Physical",
+      },
+      {
+        "artist": "Kim Carnes",
+        "track": "Bette Davis Eyes",
+      },
+      {
+        "artist": "Diana Ross",
+        "track": "Endless Love",
+      },
+      {
+        "artist": "Christopher Cross",
+        "track": "Arthur's Theme (Best That You Can Do)",
+      },
+      {
+        "artist": "Daryl Hall & John Oates",
+        "track": "Kiss On My List",
+      },
+      {
+        "artist": "Rick Springfield",
+        "track": "Jessie's Girl",
+      },
+      {
+        "artist": "Eddie Rabbitt",
+        "track": "I Love A Rainy Night",
+      },
+      {
+        "artist": "Dolly Parton",
+        "track": "9 To 5",
+      },
+      {
+        "artist": "Daryl Hall & John Oates",
+        "track": "Private Eyes",
+      },
+      {
+        "artist": "Blondie",
+        "track": "Rapture",
+      }
+    ]
+  },
+  "1982": {
+    "tracks": [
+      {
+        "artist": "Joan Jett & The Blackhearts",
+        "track": "I Love Rock 'N Roll",
+      },
+      {
+        "artist": "Paul McCartney",
+        "track": "Ebony And Ivory",
+      },
+      {
+        "artist": "Survivor",
+        "track": "Eye Of The Tiger",
+      },
+      {
+        "artist": "The J. Geils Band",
+        "track": "Centerfold",
+      },
+      {
+        "artist": "Daryl Hall & John Oates",
+        "track": "Maneater",
+
+        "priority": 1
+      },
+      {
+        "artist": "John Cougar",
+        "track": "Jack & Diane",
+      },
+      {
+        "artist": "The Human League",
+        "track": "Don't You Want Me",
+      },
+      {
+        "artist": "Joe Cocker",
+        "track": "Up Where We Belong",
+      },
+      {
+        "artist": "The Steve Miller Band",
+        "track": "Abracadabra",
+
+        "priority": 1
+      },
+      {
+        "artist": "Chicago",
+        "track": "Hard To Say I'm Sorry",
+      }
+    ]
+  },
+  "1983": {
+    "tracks": [
+      {
+        "artist": "The Police",
+        "track": "Every Breath You Take",
+
+        "priority": 1
+      },
+      {
+        "artist": "Michael Jackson",
+        "track": "Billie Jean",
+
+        "priority": 1
+      },
+      {
+        "artist": "Irene Cara",
+        "track": "Flashdance...What A Feeling",
+      },
+      {
+        "artist": "Paul McCartney",
+        "track": "Say Say Say",
+      },
+      {
+        "artist": "Lionel Richie",
+        "track": "All Night Long (All Night)",
+
+        "priority": 1
+      },
+      {
+        "artist": "Bonnie Tyler",
+        "track": "Total Eclipse Of The Heart",
+      },
+      {
+        "artist": "Men At Work",
+        "track": "Down Under",
+      },
+      {
+        "artist": "Michael Jackson",
+        "track": "Beat It",
+      },
+      {
+        "artist": "Kenny Rogers",
+        "track": "Islands In The Stream",
+      },
+      {
+        "artist": "Patti Austin",
+        "track": "Baby, Come To Me",
+      }
+    ]
+  },
+  "1984": {
+    "tracks": [
+      {
+        "artist": "Madonna",
+        "track": "Like A Virgin",
+
+        "priority": 1
+      },
+      {
+        "artist": "Prince",
+        "track": "When Doves Cry",
+      },
+      {
+        "artist": "Van Halen",
+        "track": "Jump",
+      },
+      {
+        "artist": "Kenny Loggins",
+        "track": "Footloose",
+      },
+      {
+        "artist": "Tina Turner",
+        "track": "What's Love Got To Do With It",
+      },
+      {
+        "artist": "Phil Collins",
+        "track": "Against All Odds (Take A Look At Me Now)",
+      },
+      {
+        "artist": "Stevie Wonder",
+        "track": "I Just Called To Say I Love You",
+      },
+      {
+        "artist": "Ray Parker Jr.",
+        "track": "Ghostbusters",
+      },
+      {
+        "artist": "Culture Club",
+        "track": "Karma Chameleon",
+      },
+      {
+        "artist": "Wham!",
+        "track": "Wake Me Up Before You Go-Go",
+      }
+    ]
+  },
+  "1985": {
+    "tracks": [
+      {
+        "artist": "Lionel Richie",
+        "track": "Say You, Say Me",
+      },
+      {
+        "artist": "USA for Africa",
+        "track": "We Are The World",
+      },
+      {
+        "artist": "Wham!",
+        "track": "Careless Whisper",
+      },
+      {
+        "artist": "REO Speedwagon",
+        "track": "Can't Fight This Feeling",
+      },
+      {
+        "artist": "Dire Straits",
+        "track": "Money For Nothing",
+      },
+      {
+        "artist": "Tears For Fears",
+        "track": "Shout",
+      },
+      {
+        "artist": "Mr. Mister",
+        "track": "Broken Wings",
+      },
+      {
+        "artist": "Foreigner",
+        "track": "I Want To Know What Love Is",
+      },
+      {
+        "artist": "Huey Lewis & The News",
+        "track": "Power Of Love",
+      },
+      {
+        "artist": "Tears For Fears",
+        "track": "Everybody Wants To Rule The World",
+      }
+    ]
+  },
+  "1986": {
+    "tracks": [
+      {
+        "artist": "Dionne & Friends",
+        "track": "That's What Friends Are For",
+      },
+      {
+        "artist": "Bangles",
+        "track": "Walk Like An Egyptian",
+      },
+      {
+        "artist": "Patti LaBelle",
+        "track": "On My Own",
+      },
+      {
+        "artist": "Whitney Houston",
+        "track": "Greatest Love Of All",
+      },
+      {
+        "artist": "Huey Lewis & The News",
+        "track": "Stuck With You",
+      },
+      {
+        "artist": "Falco",
+        "track": "Rock Me Amadeus",
+      },
+      {
+        "artist": "Mr. Mister",
+        "track": "Kyrie",
+      },
+      {
+        "artist": "Prince",
+        "track": "Kiss",
+      },
+      {
+        "artist": "Madonna",
+        "track": "Papa Don't Preach",
+      },
+      {
+        "artist": "Whitney Houston",
+        "track": "How Will I Know",
+      }
+    ]
+  },
+  "1987": {
+    "tracks": [
+      {
+        "artist": "George Michael",
+        "track": "Faith",
+      },
+      {
+        "artist": "Bon Jovi",
+        "track": "Livin' On A Prayer",
+
+        "priority": 1
+      },
+      {
+        "artist": "Heart",
+        "track": "Alone",
+      },
+      {
+        "artist": "U2",
+        "track": "With Or Without You",
+      },
+      {
+        "artist": "Los Lobos",
+        "track": "La Bamba",
+
+        "priority": 1
+      },
+      {
+        "artist": "Whitney Houston",
+        "track": "I Wanna Dance With Somebody (Who Loves Me)",
+      },
+      {
+        "artist": "Starship",
+        "track": "Nothing's Gonna Stop Us Now",
+      },
+      {
+        "artist": "U2",
+        "track": "I Still Haven't Found What I'm Looking For",
+      },
+      {
+        "artist": "Whitney Houston",
+        "track": "Didn't We Almost Have It All",
+      },
+      {
+        "artist": "Aretha Franklin",
+        "track": "I Knew You Were Waiting (For Me)",
+      }
+    ]
+  },
+  "1988": {
+    "tracks": [
+      {
+        "artist": "Steve Winwood",
+        "track": "Roll With It",
+      },
+      {
+        "artist": "Poison",
+        "track": "Every Rose Has Its Thorn",
+      },
+      {
+        "artist": "George Michael",
+        "track": "One More Try",
+      },
+      {
+        "artist": "Chicago",
+        "track": "Look Away",
+      },
+      {
+        "artist": "Rick Astley",
+        "track": "Never Gonna Give You Up",
+      },
+      {
+        "artist": "Guns N' Roses",
+        "track": "Sweet Child O' Mine",
+      },
+      {
+        "artist": "Gloria Estefan",
+        "track": "Anything For You",
+      },
+      {
+        "artist": "Billy Ocean",
+        "track": "Get Outta My Dreams, Get Into My Car",
+      },
+      {
+        "artist": "Michael Jackson",
+        "track": "Man In The Mirror",
+      },
+      {
+        "artist": "Cheap Trick",
+        "track": "The Flame",
+      }
+    ]
+  },
+  "1989": {
+    "tracks": [
+      {
+        "artist": "Phil Collins",
+        "track": "Another Day In Paradise",
+      },
+      {
+        "artist": "Janet Jackson",
+        "track": "Miss You Much",
+      },
+      {
+        "artist": "Paula Abdul",
+        "track": "Straight Up",
+      },
+      {
+        "artist": "Richard Marx",
+        "track": "Right Here Waiting",
+      },
+      {
+        "artist": "Debbie Gibson",
+        "track": "Lost In Your Eyes",
+      },
+      {
+        "artist": "Madonna",
+        "track": "Like A Prayer",
+      },
+      {
+        "artist": "Billy Joel",
+        "track": "We Didn't Start The Fire",
+      },
+      {
+        "artist": "Phil Collins",
+        "track": "Two Hearts",
+      },
+      {
+        "artist": "Bad English",
+        "track": "When I See You Smile",
+      },
+      {
+        "artist": "Milli Vanilli",
+        "track": "Blame It On The Rain",
+      }
+    ]
+  },
+  "1990": {
+    "tracks": [
+      {
+        "artist": "Stevie B",
+        "track": "Because I Love You (The Postman Song)",
+      },
+      {
+        "artist": "Sinead O'Connor",
+        "track": "Nothing Compares 2 U",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Vision Of Love",
+      },
+      {
+        "artist": "Madonna",
+        "track": "Vogue",
+      },
+      {
+        "artist": "Janet Jackson",
+        "track": "Escapade",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Love Takes Time",
+      },
+      {
+        "artist": "Paula Abdul",
+        "track": "Opposites Attract",
+      },
+      {
+        "artist": "New Kids On The Block",
+        "track": "Step By Step",
+      },
+      {
+        "artist": "Michael Bolton",
+        "track": "How Am I Supposed To Live Without You",
+      },
+      {
+        "artist": "Roxette",
+        "track": "It Must Have Been Love",
+      }
+    ]
+  },
+  "1991": {
+    "tracks": [
+      {
+        "artist": "Bryan Adams",
+        "track": "(Everything I Do) I Do It For You",
+      },
+      {
+        "artist": "Michael Jackson",
+        "track": "Black Or White",
+
+        "priority": 1
+      },
+      {
+        "artist": "Paula Abdul",
+        "track": "Rush Rush",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Emotions",
+      },
+      {
+        "artist": "C & C Music Factory",
+        "track": "Gonna Make You Sweat",
+      },
+      {
+        "artist": "Surface",
+        "track": "The First Time",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "I Don't Wanna Cry",
+      },
+      {
+        "artist": "Madonna",
+        "track": "Justify My Love",
+      },
+      {
+        "artist": "Amy Grant",
+        "track": "Baby Baby",
+      },
+      {
+        "artist": "Prince",
+        "track": "Cream",
+      }
+    ]
+  },
+  "1992": {
+    "tracks": [
+      {
+        "artist": "Whitney Houston",
+        "track": "I Will Always Love You",
+      },
+      {
+        "artist": "Boyz II Men",
+        "track": "End Of The Road",
+      },
+      {
+        "artist": "Kris Kross",
+        "track": "Jump",
+      },
+      {
+        "artist": "Sir Mix-A-Lot",
+        "track": "Baby Got Back",
+      },
+      {
+        "artist": "Vanessa Williams",
+        "track": "Save The Best For Last",
+
+        "priority": 1
+      },
+      {
+        "artist": "Right Said Fred",
+        "track": "I'm Too Sexy",
+      },
+      {
+        "artist": "Mr. Big",
+        "track": "To Be With You",
+      },
+      {
+        "artist": "The Heights",
+        "track": "How Do You Talk To An Angel",
+      },
+      {
+        "artist": "Color Me Badd",
+        "track": "All 4 Love",
+      },
+      {
+        "artist": "George Michael",
+        "track": "Don't Let The Sun Go Down On Me",
+      }
+    ]
+  },
+  "1993": {
+    "tracks": [
+      {
+        "artist": "Mariah Carey",
+        "track": "Dreamlover",
+      },
+      {
+        "artist": "Janet Jackson",
+        "track": "That's The Way Love Goes",
+      },
+      {
+        "artist": "UB40",
+        "track": "Can't Help Falling In Love",
+      },
+      {
+        "artist": "Snow",
+        "track": "Informer",
+      },
+      {
+        "artist": "Meat Loaf",
+        "track": "I'd Do Anything For Love (But I Won't Do That)",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Hero",
+      },
+      {
+        "artist": "Silk",
+        "track": "Freak Me",
+      },
+      {
+        "artist": "SWV",
+        "track": "Weak",
+      },
+      {
+        "artist": "Janet Jackson",
+        "track": "Again",
+      },
+      {
+        "artist": "Peabo Bryson & Regina Bell",
+        "track": "A Whole New World",
+      }
+    ]
+  },
+  "1994": {
+    "tracks": [
+      {
+        "artist": "Boyz II Men",
+        "track": "I'll Make Love To You",
+      },
+      {
+        "artist": "All-4-One",
+        "track": "I Swear",
+      },
+      {
+        "artist": "Ace Of Base",
+        "track": "The Sign",
+      },
+      {
+        "artist": "Boyz II Men",
+        "track": "On Bended Knee",
+      },
+      {
+        "artist": "Celine Dion",
+        "track": "The Power Of Love",
+      },
+      {
+        "artist": "R. Kelly",
+        "track": "Bump N' Grind",
+      },
+      {
+        "artist": "Lisa Loeb & Nine Stories",
+        "track": "Stay",
+      },
+      {
+        "artist": "Bryan Adams",
+        "track": "All For Love",
+      },
+      {
+        "artist": "Ini Kamoze",
+        "track": "Here Comes The Hotstepper",
+      },
+      {
+        "artist": "Sheryl Crow",
+        "track": "All I Wanna Do",
+
+        "priority": 1
+      }
+    ]
+  },
+  "1995": {
+    "tracks": [
+      {
+        "artist": "Mariah Carey",
+        "track": "One Sweet Day",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Fantasy",
+      },
+      {
+        "artist": "TLC",
+        "track": "Waterfalls",
+      },
+      {
+        "artist": "Madonna",
+        "track": "Take A Bow",
+      },
+      {
+        "artist": "Montell Jordan",
+        "track": "This Is How We Do It",
+      },
+      {
+        "artist": "TLC",
+        "track": "Creep",
+      },
+      {
+        "artist": "Coolio",
+        "track": "Gangsta's Paradise",
+      },
+      {
+        "artist": "Seal",
+        "track": "Kiss From A Rose",
+      },
+      {
+        "artist": "Whitney Houston",
+        "track": "Exhale (Shoop Shoop)",
+      },
+      {
+        "artist": "Michael Jackson",
+        "track": "You Are Not Alone",
+      }
+    ]
+  },
+  "1996": {
+    "tracks": [
+      {
+        "artist": "Los Del Rio",
+        "track": "Macarena (Bayside Boys Mix)",
+      },
+      {
+        "artist": "Toni Braxton",
+        "track": "Un-Break My Heart",
+      },
+      {
+        "artist": "Bone Thugs-N-Harmony",
+        "track": "Tha Crossroads",
+      },
+      {
+        "artist": "Celine Dion",
+        "track": "Because You Loved Me",
+      },
+      {
+        "artist": "BLACKstreet",
+        "track": "No Diggity",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Always Be My Baby",
+      },
+      {
+        "artist": "2 Pac",
+        "track": "How Do U Want It",
+      },
+      {
+        "artist": "Toni Braxton",
+        "track": "You're Makin' Me High",
+      },
+      {
+        "artist": "Donna Lewis",
+        "track": "I Love You Always Forever",
+      },
+      {
+        "artist": "Celine Dion",
+        "track": "It's All Coming Back To Me Now",
+      }
+    ]
+  },
+  "1997": {
+    "tracks": [
+      {
+        "artist": "Elton John",
+        "track": "Candle In The Wind 1997",
+
+        "priority": 1
+      },
+      {
+        "artist": "Elton John",
+        "track": "Something About The Way You Look Tonight",
+      },
+      {
+        "artist": "Puff Daddy & Faith Evans",
+        "track": "I'll Be Missing You",
+      },
+      {
+        "artist": "Puff Daddy",
+        "track": "Can't Nobody Hold Me Down",
+      },
+      {
+        "artist": "The Spice Girls",
+        "track": "Wannabe",
+      },
+      {
+        "artist": "Hanson",
+        "track": "MMMbop",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Honey",
+      },
+      {
+        "artist": "Notorious B.I.G.",
+        "track": "Hypnotize",
+      },
+      {
+        "artist": "Notorious B.I.G.",
+        "track": "Mo Money, Mo Problems",
+      },
+      {
+        "artist": "Boyz II Men",
+        "track": "4 Seasons Of Loneliness",
+      }
+    ]
+  },
+  "1998": {
+    "tracks": [
+      {
+        "artist": "Brandy & Monica",
+        "track": "The Boy Is Mine",
+
+        "priority": 1
+      },
+      {
+        "artist": "R. Kelly",
+        "track": "I'm Your Angel",
+      },
+      {
+        "artist": "Next",
+        "track": "Too Close",
+      },
+      {
+        "artist": "Monica",
+        "track": "The First Night",
+      },
+      {
+        "artist": "Aerosmith",
+        "track": "I Don't Want To Miss A Thing",
+      },
+      {
+        "artist": "K-Ci & JoJo",
+        "track": "All My Life",
+      },
+      {
+        "artist": "Will Smith",
+        "track": "Gettin' Jiggy Wit It",
+      },
+      {
+        "artist": "Savage Garden",
+        "track": "Truly Madly Deeply",
+      },
+      {
+        "artist": "Janet",
+        "track": "Together Again",
+      },
+      {
+        "artist": "Usher",
+        "track": "Nice & Slow",
+      }
+    ]
+  },
+  "1999": {
+    "tracks": [
+      {
+        "artist": "Santana",
+        "track": "Smooth",
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "track": "If You Had My Love",
+      },
+      {
+        "artist": "Christina Aguilera",
+        "track": "Genie In A Bottle",
+      },
+      {
+        "artist": "Ricky Martin",
+        "track": "Livin' La Vida Loca",
+      },
+      {
+        "artist": "TLC",
+        "track": "No Scrubs",
+      },
+      {
+        "artist": "Cher",
+        "track": "Believe",
+      },
+      {
+        "artist": "Monica",
+        "track": "Angel Of Mine",
+      },
+      {
+        "artist": "TLC",
+        "track": "Unpretty",
+      },
+      {
+        "artist": "Britney Spears",
+        "track": "..Baby One More Time",
+      },
+      {
+        "artist": "Brandy",
+        "track": "Have You Ever?",
+      }
+    ]
+  },
+  "2000": {
+    "tracks": [
+      {
+        "artist": "Destiny's Child",
+        "track": "Independent Women Part I",
+      },
+      {
+        "artist": "Santana",
+        "track": "Maria, Maria",
+      },
+      {
+        "artist": "Savage Garden",
+        "track": "I Knew I Loved You",
+      },
+      {
+        "artist": "Madonna",
+        "track": "Music",
+      },
+      {
+        "artist": "Christina Aguilera",
+        "track": "Come On Over Baby (All I Want Is You)",
+      },
+      {
+        "artist": "Janet",
+        "track": "Doesn't Really Matter",
+      },
+      {
+        "artist": "Destiny's Child",
+        "track": "Say My Name",
+      },
+      {
+        "artist": "Enrique Iglesias",
+        "track": "Be With You",
+      },
+      {
+        "artist": "Sisqo",
+        "track": "Incomplete",
+      },
+      {
+        "artist": "Lonestar",
+        "track": "Amazed",
+      }
+    ]
+  },
+  "2001": {
+    "tracks": [
+      {
+        "artist": "Janet",
+        "track": "All For You",
+
+        "priority": 1
+      },
+      {
+        "artist": "Usher",
+        "track": "U Got It Bad",
+      },
+      {
+        "artist": "Mary J. Blige",
+        "track": "Family Affair",
+      },
+      {
+        "artist": "Alicia Keys",
+        "track": "Fallin'",
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "track": "I'm Real",
+      },
+      {
+        "artist": "Christina Aguilera",
+        "track": "Lady Marmalade",
+      },
+      {
+        "artist": "Nickelback",
+        "track": "How You Remind Me",
+      },
+      {
+        "artist": "Usher",
+        "track": "U Remind Me",
+      },
+      {
+        "artist": "Joe",
+        "track": "Stutter",
+      },
+      {
+        "artist": "Shaggy",
+        "track": "It Wasn't Me",
+      }
+    ]
+  },
+  "2002": {
+    "tracks": [
+      {
+        "artist": "Eminem",
+        "track": "Lose Yourself",
+
+        "priority": 1
+      },
+      {
+        "artist": "Nelly",
+        "track": "Dilemma",
+      },
+      {
+        "artist": "Ashanti",
+        "track": "Foolish",
+      },
+      {
+        "artist": "Nelly",
+        "track": "Hot In Herre",
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "track": "Ain't It Funny",
+      },
+      {
+        "artist": "Ja Rule",
+        "track": "Always On Time",
+
+        "priority": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "track": "A Moment Like This",
+      },
+      {
+        "artist": "Missy Elliott",
+        "track": "Work It",
+      },
+      {
+        "artist": "Fat Joe",
+        "track": "What's Luv?",
+      },
+      {
+        "artist": "Eminem",
+        "track": "Without Me",
+      }
+    ]
+  },
+  "2003": {
+    "tracks": [
+      {
+        "artist": "OutKast",
+        "track": "Hey Ya!",
+
+        "priority": 1
+      },
+      {
+        "artist": "50 Cent",
+        "track": "In Da Club",
+
+        "priority": 1
+      },
+      {
+        "artist": "Beyonce",
+        "track": "Baby Boy",
+      },
+      {
+        "artist": "Beyonce",
+        "track": "Crazy In Love",
+      },
+      {
+        "artist": "50 Cent",
+        "track": "21 Questions",
+      },
+      {
+        "artist": "Nelly",
+        "track": "Shake Ya Tailfeather",
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "track": "All I Have",
+      },
+      {
+        "artist": "Sean Paul",
+        "track": "Get Busy",
+
+        "priority": 1
+      },
+      {
+        "artist": "Clay Aiken",
+        "track": "This Is The Night",
+      },
+      {
+        "artist": "Ludacris",
+        "track": "Stand Up",
+      }
+    ]
+  },
+  "2004": {
+    "tracks": [
+      {
+        "artist": "Usher",
+        "track": "Yeah!",
+      },
+      {
+        "artist": "Usher",
+        "track": "Burn",
+      },
+      {
+        "artist": "Ciara",
+        "track": "Goodies",
+      },
+      {
+        "artist": "Usher",
+        "track": "My Boo",
+      },
+      {
+        "artist": "Snoop Dogg",
+        "track": "Drop It Like It's Hot",
+      },
+      {
+        "artist": "Terror Squad",
+        "track": "Lean Back",
+      },
+      {
+        "artist": "Usher",
+        "track": "Confessions Part II",
+      },
+      {
+        "artist": "Juvenile",
+        "track": "Slow Motion",
+      },
+      {
+        "artist": "OutKast",
+        "track": "The Way You Move",
+      },
+      {
+        "artist": "Twista",
+        "track": "Slow Jamz",
+      }
+    ]
+  },
+  "2005": {
+    "tracks": [
+      {
+        "artist": "Mariah Carey",
+        "track": "We Belong Together",
+      },
+      {
+        "artist": "Kanye West",
+        "track": "Gold Digger",
+
+        "priority": 1
+      },
+      {
+        "artist": "Mario",
+        "track": "Let Me Love You",
+      },
+      {
+        "artist": "50 Cent",
+        "track": "Candy Shop",
+      },
+      {
+        "artist": "Chris Brown",
+        "track": "Run It!",
+      },
+      {
+        "artist": "Gwen Stefani",
+        "track": "Hollaback Girl",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Don't Forget About Us",
+      },
+      {
+        "artist": "Carrie Underwood",
+        "track": "Inside Your Heaven",
+      },
+      {
+        "artist": "Ciara",
+        "track": "1, 2 Step",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Shake It Off",
+      }
+    ]
+  },
+  "2006": {
+    "tracks": [
+      {
+        "artist": "Beyonce",
+        "track": "Irreplaceable",
+      },
+      {
+        "artist": "Justin Timberlake",
+        "track": "SexyBack",
+
+        "priority": 1
+      },
+      {
+        "artist": "Nelly Furtado",
+        "track": "Promiscuous",
+      },
+      {
+        "artist": "Daniel Powter",
+        "track": "Bad Day",
+      },
+      {
+        "artist": "Beyonce",
+        "track": "Check On It",
+      },
+      {
+        "artist": "Justin Timberlake",
+        "track": "My Love",
+      },
+      {
+        "artist": "Fergie",
+        "track": "London Bridge",
+      },
+      {
+        "artist": "Rihanna",
+        "track": "SOS",
+      },
+      {
+        "artist": "Akon",
+        "track": "I Wanna Love You",
+      },
+      {
+        "artist": "Nelly",
+        "track": "Grillz",
+      }
+    ]
+  },
+  "2007": {
+    "tracks": [
+      {
+        "artist": "Soulja Boy Tell'em",
+        "track": "Crank That (Soulja Boy)",
+      },
+      {
+        "artist": "Rihanna",
+        "track": "Umbrella",
+      },
+      {
+        "artist": "Alicia Keys",
+        "track": "No One",
+      },
+      {
+        "artist": "Sean Kingston",
+        "track": "Beautiful Girls",
+      },
+      {
+        "artist": "Chris Brown",
+        "track": "Kiss Kiss",
+      },
+      {
+        "artist": "Maroon5",
+        "track": "Makes Me Wonder",
+      },
+      {
+        "artist": "Plain White T's",
+        "track": "Hey There Delilah",
+      },
+      {
+        "artist": "Fergie",
+        "track": "Glamorous",
+      },
+      {
+        "artist": "Akon",
+        "track": "Don't Matter",
+      },
+      {
+        "artist": "Mims",
+        "track": "This Is Why I'm Hot",
+      }
+    ]
+  },
+  "2008": {
+    "tracks": [
+      {
+        "artist": "Flo Rida",
+        "track": "Low",
+      },
+      {
+        "artist": "T.I.",
+        "track": "Whatever You Like",
+      },
+      {
+        "artist": "Katy Perry",
+        "track": "I Kissed A Girl",
+      },
+      {
+        "artist": "T.I.",
+        "track": "Live Your Life",
+      },
+      {
+        "artist": "Lil Wayne",
+        "track": "Lollipop",
+      },
+      {
+        "artist": "Leona Lewis",
+        "track": "Bleeding Love",
+      },
+      {
+        "artist": "Beyonce",
+        "track": "Single Ladies (Put A Ring On It)",
+      },
+      {
+        "artist": "Usher",
+        "track": "Love In This Club",
+      },
+      {
+        "artist": "Rihanna",
+        "track": "Disturbia",
+      },
+      {
+        "artist": "Mariah Carey",
+        "track": "Touch My Body",
+      }
+    ]
+  },
+  "2009": {
+    "tracks": [
+      {
+        "artist": "The Black Eyed Peas",
+        "track": "I Gotta Feeling",
+
+        "priority": 1
+      },
+      {
+        "artist": "The Black Eyed Peas",
+        "track": "Boom Boom Pow",
+      },
+      {
+        "artist": "Flo Rida",
+        "track": "Right Round",
+      },
+      {
+        "artist": "Jay-Z",
+        "track": "Empire State Of Mind",
+      },
+      {
+        "artist": "Lady GaGa",
+        "track": "Just Dance",
+      },
+      {
+        "artist": "Jay Sean",
+        "track": "Down",
+      },
+      {
+        "artist": "Owl City",
+        "track": "Fireflies",
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "track": "My Life Would Suck Without You",
+      },
+      {
+        "artist": "Lady GaGa",
+        "track": "Poker Face",
+      },
+      {
+        "artist": "Jason DeRulo",
+        "track": "Whatcha Say",
+      }
+    ]
+  },
+  "2010": {
+    "tracks": [
+      {
+        "artist": "Ke$ha",
+        "track": "TiK ToK",
+      },
+      {
+        "artist": "Eminem",
+        "track": "Love The Way You Lie",
+      },
+      {
+        "artist": "Katy Perry",
+        "track": "California Gurls",
+      },
+      {
+        "artist": "Rihanna",
+        "track": "Rude Boy",
+      },
+      {
+        "artist": "Bruno Mars",
+        "track": "Just The Way You Are",
+      },
+      {
+        "artist": "Katy Perry",
+        "track": "Firework",
+      },
+      {
+        "artist": "Usher",
+        "track": "OMG",
+      },
+      {
+        "artist": "Katy Perry",
+        "track": "Teenage Dream",
+      },
+      {
+        "artist": "B.o.B.",
+        "track": "Nothin' On You",
+      },
+      {
+        "artist": "The Black Eyed Peas",
+        "track": "Imma Be",
+      }
+    ]
+  },
+  "2011": {
+    "tracks": [
+      {
+        "artist": "Rihanna",
+        "track": "We Found Love",
+      },
+      {
+        "artist": "Adele",
+        "track": "Rolling In The Deep",
+
+        "priority": 1
+      },
+      {
+        "artist": "LMFAO",
+        "track": "Party Rock Anthem",
+      },
+      {
+        "artist": "Lady GaGa",
+        "track": "Born This Way",
+      },
+      {
+        "artist": "Adele",
+        "track": "Someone Like You",
+      },
+      {
+        "artist": "Katy Perry",
+        "track": "E.T.",
+      },
+      {
+        "artist": "Maroon 5",
+        "track": "Moves Like Jagger",
+      },
+      {
+        "artist": "Bruno Mars",
+        "track": "Grenade",
+      },
+      {
+        "artist": "Katy Perry",
+        "track": "Last Friday Night (T.G.I.F.)",
+      },
+      {
+        "artist": "Pitbull",
+        "track": "Give Me Everything",
+      }
+    ]
+  },
+  "2012": {
+    "tracks": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "track": "Call Me Maybe",
+
+        "priority": 1
+      },
+      {
+        "artist": "Maroon 5",
+        "track": "One More Night",
+      },
+      {
+        "artist": "Gotye",
+        "track": "Somebody That I Used To Know",
+
+        "priority": 1
+      },
+      {
+        "artist": "Fun.",
+        "track": "We Are Young",
+      },
+      {
+        "artist": "Bruno Mars",
+        "track": "Locked Out Of Heaven",
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "track": "Stronger (What Doesn't Kill You)",
+      },
+      {
+        "artist": "Rihanna",
+        "track": "Diamonds",
+      },
+      {
+        "artist": "Taylor Swift",
+        "track": "We Are Never Ever Getting Back Together",
+      },
+      {
+        "artist": "LMFAO",
+        "track": "Sexy And I Know It",
+      },
+      {
+        "artist": "Adele",
+        "track": "Set Fire To The Rain",
+      }
+    ]
+  },
+  "2013": {
+    "tracks": [
+      {
+        "artist": "Robin Thicke",
+        "track": "Blurred Lines",
+
+        "priority": 1
+      },
+      {
+        "artist": "Lorde",
+        "track": "Royals",
+      },
+      {
+        "artist": "Macklemore",
+        "track": "Thrift Shop",
+      },
+      {
+        "artist": "Macklemore",
+        "track": "Can't Hold Us",
+      },
+      {
+        "artist": "Baauer",
+        "track": "Harlem Shake",
+      },
+      {
+        "artist": "Eminem",
+        "track": "The Monster",
+      },
+      {
+        "artist": "Miley Cyrus",
+        "track": "Wrecking Ball",
+      },
+      {
+        "artist": "P!nk",
+        "track": "Just Give Me A Reason",
+      },
+      {
+        "artist": "Katy Perry",
+        "track": "Roar",
+      },
+      {
+        "artist": "Bruno Mars",
+        "track": "When I Was Your Man",
+      }
+    ]
+  },
+  "2014": {
+    "tracks": [
+      {
+        "artist": "Pharrell Williams",
+        "track": "Happy",
+
+        "priority": 1
+      },
+      {
+        "artist": "Katy Perry Featuring Juicy J",
+        "track": "Dark Horse",
+      },
+      {
+        "artist": "John Legend",
+        "track": "All of Me",
+      },
+      {
+        "artist": "Iggy Azalea Featuring Charlie XCX",
+        "track": "Fancy",
+      },
+      {
+        "artist": "OneRepublic",
+        "track": "Counting Stars",
+      }
+    ]
+  },
+  "2015": {
+    "tracks": [
+      {
+        "artist": "Taylor Swift",
+        "track": "Bad Blood",
+      },
+      {
+        "artist": "The Weekend",
+        "track": "Can't Feel My Face",
+      },
+      {
+        "artist": "Fifth Harmony",
+        "track": "Worth It",
+
+        "priority": 1
+      },
+      {
+        "artist": "Walk the Moon",
+        "track": "Shut Up and Dance",
+      },
+      {
+        "artist": "Wiz Khalifa Featuring Charlie Puth",
+        "track": "See You Again",
+      },
+      {
+        "artist": "Mark Ronson Featuring Bruno Mars",
+        "track": "Uptown Funk!",
+      },
+      {
+        "artist": "Maroon 5",
+        "track": "Sugar",
+      },
+      {
+        "artist": "Fetty Wap",
+        "track": "Trap Queen",
+      },
+      {
+        "artist": "Ed Sheeran",
+        "track": "Thinking Out Loud",
+      }
+    ]
+  }
+}
